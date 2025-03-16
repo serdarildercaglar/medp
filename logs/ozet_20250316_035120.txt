@@ -1,0 +1,158 @@
+Tarih: 2025-03-16 03:51:20
+Log dosyası: logs/tez_scraping_20250316_030029.log
+
+Toplam üniversite sayısı: 156
+Başarılı işlenen üniversite sayısı: 129
+Başarısız üniversite sayısı: 19
+
+Başarılı üniversiteler:
+1. ALANYA ÜNİVERSİTESİ
+2. ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ
+3. Ankara Sosyal Bilimler Üniversitesi
+4. ANTALYA BELEK ÜNİVERSİTESİ
+5. Antalya Bilim Üniversitesi
+6. Ardahan Üniversitesi
+7. Artvin Çoruh Üniversitesi
+8. Atılım Üniversitesi
+9. Avrasya Üniversitesi
+10. Bahçeşehir Üniversitesi
+11. Bandırma Onyedi Eylül Üniversitesi
+12. Bartın Üniversitesi
+13. Batman Üniversitesi
+14. Bayburt Üniversitesi
+15. Beykent Üniversitesi
+16. BEYKOZ ÜNİVERSİTESİ
+17. Bilecik Şeyh Edebali Üniversitesi
+18. Bingöl Üniversitesi
+19. Biruni Üniversitesi
+20. Bitlis Eren Üniversitesi
+21. Boğaziçi Üniversitesi
+22. Burdur Mehmet Akif Ersoy Üniversitesi
+23. Bursa Orhangazi Üniversitesi
+24. Bursa Teknik Üniversitesi
+25. Canik Başarı Üniversitesi
+26. Deniz Harp Okulu Komutanlığı
+27. Doğuş Üniversitesi
+28. Erzurum Teknik Üniversitesi
+29. Eskişehir Teknik Üniversitesi
+30. Gaziantep Bilim ve Teknoloji Üniversitesi
+31. GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ
+32. Gebze Teknik Üniversitesi
+33. Gebze Yüksek Teknoloji Enstitüsü
+34. Gedik Üniversitesi
+35. Gediz Üniversitesi
+36. Gümüşhane Üniversitesi
+37. Hakkari Üniversitesi
+38. Haliç Üniversitesi
+39. Harp Akademileri Komutanlığı
+40. Hasan Kalyoncu Üniversitesi
+41. Hava Harp Okulu Komutanlığı
+42. Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi
+43. Iğdır Üniversitesi
+44. Isparta Uygulamalı Bilimler Üniversitesi
+45. Işık Üniversitesi
+46. İbn Haldun Üniversitesi
+47. İhsan Doğramacı Bilkent Üniversitesi
+48. İpek Üniversitesi
+49. İskenderun Teknik Üniversitesi
+50. İstanbul Arel Üniversitesi
+51. İstanbul Atlas Üniversitesi
+52. İstanbul Aydın Üniversitesi
+53. İSTANBUL AYVANSARAY ÜNİVERSİTESİ
+54. İSTANBUL BEYKENT ÜNİVERSİTESİ
+55. İstanbul Bilgi Üniversitesi
+56. İstanbul Esenyurt Üniversitesi
+57. İstanbul Gedik Üniversitesi
+58. İstanbul Gelişim Üniversitesi
+59. İstanbul Kemerburgaz Üniversitesi
+60. İstanbul Kent Üniversitesi
+61. İstanbul Kültür Üniversitesi
+62. İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ
+63. İstanbul Okan Üniversitesi
+64. İstanbul Rumeli Üniversitesi
+65. İstanbul Sabahattin Zaim Üniversitesi
+66. İstanbul Sağlık ve Teknoloji Üniversitesi
+67. İstanbul Şehir Üniversitesi
+68. İstanbul Teknik Üniversitesi
+69. İstanbul 29 Mayıs Üniversitesi
+70. İstinye Üniversitesi
+71. İzmir Yüksek Teknoloji Enstitüsü
+72. Jandarma ve Sahil Güvenlik Akademisi
+73. Kahramanmaraş İstiklal Üniversitesi
+74. Kapadokya Üniversitesi
+75. Kara Harp Okulu Komutanlığı
+76. Karamanoğlu Mehmetbey Üniversitesi
+77. Kastamonu Üniversitesi
+78. Kayseri Üniversitesi
+79. Kırgızistan-Türkiye Manas Üniversitesi
+80. Kırklareli Üniversitesi
+81. Kilis 7 Aralık Üniversitesi
+82. KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ
+83. Koç Üniversitesi
+84. Konya Gıda ve Tarım Üniversitesi
+85. Konya Teknik Üniversitesi
+86. KTO Karatay Üniversitesi
+87. Kütahya Dumlupınar Üniversitesi
+88. LOKMAN HEKİM ÜNİVERSİTESİ
+89. Malatya Turgut Özal Üniversitesi
+90. Mardin Artuklu Üniversitesi
+91. MEF ÜNİVERSİTESİ
+92. Mehmet Akif Ersoy Üniversitesi
+93. Mevlana Üniversitesi
+94. Milli Savunma Üniversitesi
+95. Mimar Sinan Güzel Sanatlar Üniversitesi
+96. MUDANYA ÜNİVERSİTESİ
+97. Muğla Üniversitesi
+98. Munzur Üniversitesi
+99. Muş Alparslan Üniversitesi
+100. Nevşehir Hacı Bektaş Veli Üniversitesi
+101. Nevşehir Üniversitesi
+102. Niğde Üniversitesi
+103. Nişantaşı Üniversitesi
+104. Orta Doğu Teknik Üniversitesi
+105. Osmaniye Korkut Ata Üniversitesi
+106. OSTİM TEKNİK ÜNİVERSİTESİ
+107. Özyeğin Üniversitesi
+108. Piri Reis Üniversitesi
+109. Semerkand Bilim ve Medeniyet Üniversitesi
+110. Siirt Üniversitesi
+111. Sinop Üniversitesi
+112. Sivas Bilim ve Teknoloji Üniversitesi
+113. Süleyman Şah Üniversitesi
+114. Şırnak Üniversitesi
+115. Tarsus Üniversitesi
+116. TED Üniversitesi
+117. TOBB Ekonomi ve Teknoloji Üniversitesi
+118. Toros Üniversitesi
+119. Trabzon Üniversitesi
+120. Tunceli Üniversitesi
+121. Türk Hava Kurumu Üniversitesi
+122. Türk-Alman Üniversitesi
+123. Üsküdar Üniversitesi
+124. Yalova Üniversitesi
+125. Yaşar Üniversitesi
+126. Yeni Yüzyıl Üniversitesi
+127. Yıldız Teknik Üniversitesi
+128. YÜKSEK İHTİSAS ÜNİVERSİTESİ
+129. Zirve Üniversitesi
+
+Başarısız üniversiteler:
+1. <üniversite>ANKARA BİLİM ÜNİVERSİTESİ</üniversite>
+2. <üniversite>Ankara Hacı Bayram Veli Üniversitesi</üniversite>
+3. <üniversite>Ankara Medipol Üniversitesi</üniversite>
+4. <üniversite>Çağ Üniversitesi</üniversite>
+5. <üniversite>Çankaya Üniversitesi</üniversite>
+6. <üniversite>Fatih Sultan Mehmet Vakıf Üniversitesi</üniversite>
+7. <üniversite>FENERBAHÇE ÜNİVERSİTESİ</üniversite>
+8. <üniversite>İstanbul Ticaret Üniversitesi</üniversite>
+9. <üniversite>İSTANBUL TOPKAPI ÜNİVERSİTESİ</üniversite>
+10. <üniversite>İstanbul Yeni Yüzyıl Üniversitesi</üniversite>
+11. <üniversite>İzmir Demokrasi Üniversitesi</üniversite>
+12. <üniversite>İzmir Ekonomi Üniversitesi</üniversite>
+13. <üniversite>İzmir Tınaztepe Üniversitesi</üniversite>
+14. <üniversite>Melikşah  Üniversitesi</üniversite>
+15. <üniversite>Nuh Naci Yazgan Üniversitesi</üniversite>
+16. <üniversite>Okan Üniversitesi</üniversite>
+17. <üniversite>Polis Akademisi</üniversite>
+18. <üniversite>Rize Üniversitesi</üniversite>
+19. <üniversite>Sakarya Uygulamalı Bilimler Üniversitesi</üniversite>

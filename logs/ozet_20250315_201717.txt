@@ -1,0 +1,174 @@
+Tarih: 2025-03-15 20:17:17
+Log dosyası: logs/tez_scraping_20250315_191655.log
+
+Toplam üniversite sayısı: 164
+Başarılı işlenen üniversite sayısı: 8
+Başarısız üniversite sayısı: 156
+
+Başarılı üniversiteler:
+1. Ankara Üniversitesi
+2. Ankara Yıldırım Beyazıt Üniversitesi
+3. Gazi Üniversitesi
+4. İstanbul Bilim Üniversitesi
+5. İstanbul Üniversitesi-Cerrahpaşa
+6. Sabancı Üniversitesi
+7. Şifa Üniversitesi
+8. Trakya Üniversitesi
+
+Başarısız üniversiteler:
+1. <üniversite>Abdullah Gül Üniversitesi</üniversite>
+2. <üniversite>Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi</üniversite>
+3. <üniversite>Adana Bilim ve Teknoloji Üniversitesi</üniversite>
+4. <üniversite>Ağrı İbrahim Çeçen Üniversitesi</üniversite>
+5. <üniversite>Ahi Evran Üniversitesi</üniversite>
+6. <üniversite>Aksaray Üniversitesi</üniversite>
+7. <üniversite>Alanya Alaaddin Keykubat Üniversitesi</üniversite>
+8. <üniversite>Alanya Hamdullah Emin Paşa Üniversitesi</üniversite>
+9. <üniversite>ALANYA ÜNİVERSİTESİ</üniversite>
+10. <üniversite>ANKARA BİLİM ÜNİVERSİTESİ</üniversite>
+11. <üniversite>Ankara Hacı Bayram Veli Üniversitesi</üniversite>
+12. <üniversite>Ankara Medipol Üniversitesi</üniversite>
+13. <üniversite>ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ</üniversite>
+14. <üniversite>Ankara Sosyal Bilimler Üniversitesi</üniversite>
+15. <üniversite>ANTALYA BELEK ÜNİVERSİTESİ</üniversite>
+16. <üniversite>Antalya Bilim Üniversitesi</üniversite>
+17. <üniversite>Ardahan Üniversitesi</üniversite>
+18. <üniversite>Artvin Çoruh Üniversitesi</üniversite>
+19. <üniversite>Atılım Üniversitesi</üniversite>
+20. <üniversite>Avrasya Üniversitesi</üniversite>
+21. <üniversite>Bahçeşehir Üniversitesi</üniversite>
+22. <üniversite>Bandırma Onyedi Eylül Üniversitesi</üniversite>
+23. <üniversite>Bartın Üniversitesi</üniversite>
+24. <üniversite>Batman Üniversitesi</üniversite>
+25. <üniversite>Bayburt Üniversitesi</üniversite>
+26. <üniversite>Beykent Üniversitesi</üniversite>
+27. <üniversite>BEYKOZ ÜNİVERSİTESİ</üniversite>
+28. <üniversite>Bilecik Şeyh Edebali Üniversitesi</üniversite>
+29. <üniversite>Bingöl Üniversitesi</üniversite>
+30. <üniversite>Biruni Üniversitesi</üniversite>
+31. <üniversite>Bitlis Eren Üniversitesi</üniversite>
+32. <üniversite>Boğaziçi Üniversitesi</üniversite>
+33. <üniversite>Burdur Mehmet Akif Ersoy Üniversitesi</üniversite>
+34. <üniversite>Bursa Orhangazi Üniversitesi</üniversite>
+35. <üniversite>Bursa Teknik Üniversitesi</üniversite>
+36. <üniversite>Canik Başarı Üniversitesi</üniversite>
+37. <üniversite>Çağ Üniversitesi</üniversite>
+38. <üniversite>Çankaya Üniversitesi</üniversite>
+39. <üniversite>Deniz Harp Okulu Komutanlığı</üniversite>
+40. <üniversite>Doğuş Üniversitesi</üniversite>
+41. <üniversite>Erzurum Teknik Üniversitesi</üniversite>
+42. <üniversite>Eskişehir Teknik Üniversitesi</üniversite>
+43. <üniversite>Fatih Sultan Mehmet Vakıf Üniversitesi</üniversite>
+44. <üniversite>FENERBAHÇE ÜNİVERSİTESİ</üniversite>
+45. <üniversite>Gaziantep Bilim ve Teknoloji Üniversitesi</üniversite>
+46. <üniversite>GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</üniversite>
+47. <üniversite>Gebze Teknik Üniversitesi</üniversite>
+48. <üniversite>Gebze Yüksek Teknoloji Enstitüsü</üniversite>
+49. <üniversite>Gedik Üniversitesi</üniversite>
+50. <üniversite>Gediz Üniversitesi</üniversite>
+51. <üniversite>Gümüşhane Üniversitesi</üniversite>
+52. <üniversite>Hakkari Üniversitesi</üniversite>
+53. <üniversite>Haliç Üniversitesi</üniversite>
+54. <üniversite>Harp Akademileri Komutanlığı</üniversite>
+55. <üniversite>Hasan Kalyoncu Üniversitesi</üniversite>
+56. <üniversite>Hava Harp Okulu Komutanlığı</üniversite>
+57. <üniversite>Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi</üniversite>
+58. <üniversite>Iğdır Üniversitesi</üniversite>
+59. <üniversite>Isparta Uygulamalı Bilimler Üniversitesi</üniversite>
+60. <üniversite>Işık Üniversitesi</üniversite>
+61. <üniversite>İbn Haldun Üniversitesi</üniversite>
+62. <üniversite>İhsan Doğramacı Bilkent Üniversitesi</üniversite>
+63. <üniversite>İpek Üniversitesi</üniversite>
+64. <üniversite>İskenderun Teknik Üniversitesi</üniversite>
+65. <üniversite>İstanbul Arel Üniversitesi</üniversite>
+66. <üniversite>İstanbul Atlas Üniversitesi</üniversite>
+67. <üniversite>İstanbul Aydın Üniversitesi</üniversite>
+68. <üniversite>İSTANBUL AYVANSARAY ÜNİVERSİTESİ</üniversite>
+69. <üniversite>İSTANBUL BEYKENT ÜNİVERSİTESİ</üniversite>
+70. <üniversite>İstanbul Bilgi Üniversitesi</üniversite>
+71. <üniversite>İstanbul Esenyurt Üniversitesi</üniversite>
+72. <üniversite>İstanbul Gedik Üniversitesi</üniversite>
+73. <üniversite>İstanbul Gelişim Üniversitesi</üniversite>
+74. <üniversite>İstanbul Kemerburgaz Üniversitesi</üniversite>
+75. <üniversite>İstanbul Kent Üniversitesi</üniversite>
+76. <üniversite>İstanbul Kültür Üniversitesi</üniversite>
+77. <üniversite>İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ</üniversite>
+78. <üniversite>İstanbul Okan Üniversitesi</üniversite>
+79. <üniversite>İstanbul Rumeli Üniversitesi</üniversite>
+80. <üniversite>İstanbul Sabahattin Zaim Üniversitesi</üniversite>
+81. <üniversite>İstanbul Sağlık ve Teknoloji Üniversitesi</üniversite>
+82. <üniversite>İstanbul Şehir Üniversitesi</üniversite>
+83. <üniversite>İstanbul Teknik Üniversitesi</üniversite>
+84. <üniversite>İstanbul Ticaret Üniversitesi</üniversite>
+85. <üniversite>İSTANBUL TOPKAPI ÜNİVERSİTESİ</üniversite>
+86. <üniversite>İstanbul Yeni Yüzyıl Üniversitesi</üniversite>
+87. <üniversite>İstanbul 29 Mayıs Üniversitesi</üniversite>
+88. <üniversite>İstinye Üniversitesi</üniversite>
+89. <üniversite>İzmir Demokrasi Üniversitesi</üniversite>
+90. <üniversite>İzmir Ekonomi Üniversitesi</üniversite>
+91. <üniversite>İzmir Yüksek Teknoloji Enstitüsü</üniversite>
+92. <üniversite>İzmir Tınaztepe Üniversitesi</üniversite>
+93. <üniversite>Jandarma ve Sahil Güvenlik Akademisi</üniversite>
+94. <üniversite>Kahramanmaraş İstiklal Üniversitesi</üniversite>
+95. <üniversite>Kapadokya Üniversitesi</üniversite>
+96. <üniversite>Kara Harp Okulu Komutanlığı</üniversite>
+97. <üniversite>Karamanoğlu Mehmetbey Üniversitesi</üniversite>
+98. <üniversite>Kastamonu Üniversitesi</üniversite>
+99. <üniversite>Kayseri Üniversitesi</üniversite>
+100. <üniversite>Kırgızistan-Türkiye Manas Üniversitesi</üniversite>
+101. <üniversite>Kırklareli Üniversitesi</üniversite>
+102. <üniversite>Kilis 7 Aralık Üniversitesi</üniversite>
+103. <üniversite>KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ</üniversite>
+104. <üniversite>Koç Üniversitesi</üniversite>
+105. <üniversite>Konya Gıda ve Tarım Üniversitesi</üniversite>
+106. <üniversite>Konya Teknik Üniversitesi</üniversite>
+107. <üniversite>KTO Karatay Üniversitesi</üniversite>
+108. <üniversite>Kütahya Dumlupınar Üniversitesi</üniversite>
+109. <üniversite>LOKMAN HEKİM ÜNİVERSİTESİ</üniversite>
+110. <üniversite>Malatya Turgut Özal Üniversitesi</üniversite>
+111. <üniversite>Mardin Artuklu Üniversitesi</üniversite>
+112. <üniversite>MEF ÜNİVERSİTESİ</üniversite>
+113. <üniversite>Mehmet Akif Ersoy Üniversitesi</üniversite>
+114. <üniversite>Melikşah  Üniversitesi</üniversite>
+115. <üniversite>Mevlana Üniversitesi</üniversite>
+116. <üniversite>Milli Savunma Üniversitesi</üniversite>
+117. <üniversite>Mimar Sinan Güzel Sanatlar Üniversitesi</üniversite>
+118. <üniversite>MUDANYA ÜNİVERSİTESİ</üniversite>
+119. <üniversite>Muğla Üniversitesi</üniversite>
+120. <üniversite>Munzur Üniversitesi</üniversite>
+121. <üniversite>Muş Alparslan Üniversitesi</üniversite>
+122. <üniversite>Nevşehir Hacı Bektaş Veli Üniversitesi</üniversite>
+123. <üniversite>Nevşehir Üniversitesi</üniversite>
+124. <üniversite>Niğde Üniversitesi</üniversite>
+125. <üniversite>Nişantaşı Üniversitesi</üniversite>
+126. <üniversite>Nuh Naci Yazgan Üniversitesi</üniversite>
+127. <üniversite>Okan Üniversitesi</üniversite>
+128. <üniversite>Orta Doğu Teknik Üniversitesi</üniversite>
+129. <üniversite>Osmaniye Korkut Ata Üniversitesi</üniversite>
+130. <üniversite>OSTİM TEKNİK ÜNİVERSİTESİ</üniversite>
+131. <üniversite>Özyeğin Üniversitesi</üniversite>
+132. <üniversite>Piri Reis Üniversitesi</üniversite>
+133. <üniversite>Polis Akademisi</üniversite>
+134. <üniversite>Rize Üniversitesi</üniversite>
+135. <üniversite>Sakarya Uygulamalı Bilimler Üniversitesi</üniversite>
+136. <üniversite>Semerkand Bilim ve Medeniyet Üniversitesi</üniversite>
+137. <üniversite>Siirt Üniversitesi</üniversite>
+138. <üniversite>Sinop Üniversitesi</üniversite>
+139. <üniversite>Sivas Bilim ve Teknoloji Üniversitesi</üniversite>
+140. <üniversite>Süleyman Şah Üniversitesi</üniversite>
+141. <üniversite>Şırnak Üniversitesi</üniversite>
+142. <üniversite>Tarsus Üniversitesi</üniversite>
+143. <üniversite>TED Üniversitesi</üniversite>
+144. <üniversite>TOBB Ekonomi ve Teknoloji Üniversitesi</üniversite>
+145. <üniversite>Toros Üniversitesi</üniversite>
+146. <üniversite>Trabzon Üniversitesi</üniversite>
+147. <üniversite>Tunceli Üniversitesi</üniversite>
+148. <üniversite>Türk Hava Kurumu Üniversitesi</üniversite>
+149. <üniversite>Türk-Alman Üniversitesi</üniversite>
+150. <üniversite>Üsküdar Üniversitesi</üniversite>
+151. <üniversite>Yalova Üniversitesi</üniversite>
+152. <üniversite>Yaşar Üniversitesi</üniversite>
+153. <üniversite>Yeni Yüzyıl Üniversitesi</üniversite>
+154. <üniversite>Yıldız Teknik Üniversitesi</üniversite>
+155. <üniversite>YÜKSEK İHTİSAS ÜNİVERSİTESİ</üniversite>
+156. <üniversite>Zirve Üniversitesi</üniversite>

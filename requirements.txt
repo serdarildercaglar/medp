@@ -1,0 +1,8 @@
+undetected-chromedriver==3.5.4
+selenium==4.9.0
+bs4
+fake-useragent==1.4.0
+pandas
+numpy
+matplotlib
+seaborn

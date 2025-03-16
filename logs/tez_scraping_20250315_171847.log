@@ -1,0 +1,31 @@
+2025-03-15 17:18:47,653 - INFO - Log dosyası oluşturuldu: logs/tez_scraping_20250315_171847.log
+2025-03-15 17:18:47,656 - INFO - Toplam 263 üniversite işlenecek.
+2025-03-15 17:18:47,656 - INFO - ==================================================
+2025-03-15 17:18:47,657 - INFO - Abant İzzet Baysal Üniversitesi üniversitesi işleniyor...
+2025-03-15 17:18:47,657 - INFO - ==================================================
+2025-03-15 17:18:50,283 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 17:19:07,788 - ERROR - HATA: Abant İzzet Baysal Üniversitesi işlenirken bir hata oluştu: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x651934556a1a <unknown>
+#1 0x65193400e390 <unknown>
+#2 0x651933ff412e <unknown>
+#3 0x65193401cd50 <unknown>
+#4 0x65193408e559 <unknown>
+#5 0x6519340ab9f5 <unknown>
+#6 0x6519340859a3 <unknown>
+#7 0x65193405160e <unknown>
+#8 0x651934052dd1 <unknown>
+#9 0x65193451cddb <unknown>
+#10 0x651934520cbc <unknown>
+#11 0x651934504392 <unknown>
+#12 0x651934521834 <unknown>
+#13 0x6519344e81ef <unknown>
+#14 0x651934545038 <unknown>
+#15 0x651934545216 <unknown>
+#16 0x651934555896 <unknown>
+#17 0x7102a7c9caa4 <unknown>
+#18 0x7102a7d29c3c <unknown>
+
+2025-03-15 17:19:07,788 - INFO - Abant İzzet Baysal Üniversitesi başarısız üniversiteler listesine eklendi.

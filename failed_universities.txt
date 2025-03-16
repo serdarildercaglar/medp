@@ -1,0 +1,413 @@
+# Başarısız Üniversiteler - 2025-03-16 03:00:29
+# Format: Tarih Saat - <üniversite>Üniversite Adı</üniversite> - Hata Mesajı
+--------------------------------------------------------------------------------
+2025-03-16 03:00:58 - <üniversite>ANKARA BİLİM ÜNİVERSİTESİ</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x60e9cc04fa1a <unknown>
+#1 0x60e9cbb07390 <unknown>
+#2 0x60e9cbb58c85 <unknown>
+#3 0x60e9cbb58eb1 <unknown>
+#4 0x60e9cbba7d64 <unknown>
+#5 0x60e9cbb7ebfd <unknown>
+#6 0x60e9cbba507b <unknown>
+#7 0x60e9cbb7e9a3 <unknown>
+#8 0x60e9cbb4a60e <unknown>
+#9 0x60e9cbb4bdd1 <unknown>
+#10 0x60e9cc015ddb <unknown>
+#11 0x60e9cc019cbc <unknown>
+#12 0x60e9cbffd392 <unknown>
+#13 0x60e9cc01a834 <unknown>
+#14 0x60e9cbfe11ef <unknown>
+#15 0x60e9cc03e038 <unknown>
+#16 0x60e9cc03e216 <unknown>
+#17 0x60e9cc04e896 <unknown>
+#18 0x71c4f729caa4 <unknown>
+#19 0x71c4f7329c3c <unknown>
+
+2025-03-16 03:01:06 - <üniversite>Ankara Hacı Bayram Veli Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x6156ffec5a1a <unknown>
+#1 0x6156ff97d390 <unknown>
+#2 0x6156ff9cec85 <unknown>
+#3 0x6156ff9ceeb1 <unknown>
+#4 0x6156ffa1dd64 <unknown>
+#5 0x6156ff9f4bfd <unknown>
+#6 0x6156ffa1b07b <unknown>
+#7 0x6156ff9f49a3 <unknown>
+#8 0x6156ff9c060e <unknown>
+#9 0x6156ff9c1dd1 <unknown>
+#10 0x6156ffe8bddb <unknown>
+#11 0x6156ffe8fcbc <unknown>
+#12 0x6156ffe73392 <unknown>
+#13 0x6156ffe90834 <unknown>
+#14 0x6156ffe571ef <unknown>
+#15 0x6156ffeb4038 <unknown>
+#16 0x6156ffeb4216 <unknown>
+#17 0x6156ffec4896 <unknown>
+#18 0x78726009caa4 <unknown>
+#19 0x787260129c3c <unknown>
+
+2025-03-16 03:01:14 - <üniversite>Ankara Medipol Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5c2cc4d3ba1a <unknown>
+#1 0x5c2cc47f3390 <unknown>
+#2 0x5c2cc4844c85 <unknown>
+#3 0x5c2cc4844eb1 <unknown>
+#4 0x5c2cc4893d64 <unknown>
+#5 0x5c2cc486abfd <unknown>
+#6 0x5c2cc489107b <unknown>
+#7 0x5c2cc486a9a3 <unknown>
+#8 0x5c2cc483660e <unknown>
+#9 0x5c2cc4837dd1 <unknown>
+#10 0x5c2cc4d01ddb <unknown>
+#11 0x5c2cc4d05cbc <unknown>
+#12 0x5c2cc4ce9392 <unknown>
+#13 0x5c2cc4d06834 <unknown>
+#14 0x5c2cc4ccd1ef <unknown>
+#15 0x5c2cc4d2a038 <unknown>
+#16 0x5c2cc4d2a216 <unknown>
+#17 0x5c2cc4d3a896 <unknown>
+#18 0x7ac270c9caa4 <unknown>
+#19 0x7ac270d29c3c <unknown>
+
+2025-03-16 03:10:22 - <üniversite>Çağ Üniversitesi</üniversite> - Hata: 'NoneType' object has no attribute 'text'
+2025-03-16 03:10:31 - <üniversite>Çankaya Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x59867a8a1a1a <unknown>
+#1 0x59867a359390 <unknown>
+#2 0x59867a3aac85 <unknown>
+#3 0x59867a3aaeb1 <unknown>
+#4 0x59867a3f9d64 <unknown>
+#5 0x59867a3d0bfd <unknown>
+#6 0x59867a3f707b <unknown>
+#7 0x59867a3d09a3 <unknown>
+#8 0x59867a39c60e <unknown>
+#9 0x59867a39ddd1 <unknown>
+#10 0x59867a867ddb <unknown>
+#11 0x59867a86bcbc <unknown>
+#12 0x59867a84f392 <unknown>
+#13 0x59867a86c834 <unknown>
+#14 0x59867a8331ef <unknown>
+#15 0x59867a890038 <unknown>
+#16 0x59867a890216 <unknown>
+#17 0x59867a8a0896 <unknown>
+#18 0x7254eb69caa4 <unknown>
+#19 0x7254eb729c3c <unknown>
+
+2025-03-16 03:12:07 - <üniversite>Fatih Sultan Mehmet Vakıf Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x56b4dd32da1a <unknown>
+#1 0x56b4dcde5390 <unknown>
+#2 0x56b4dce36c85 <unknown>
+#3 0x56b4dce36eb1 <unknown>
+#4 0x56b4dce85d64 <unknown>
+#5 0x56b4dce5cbfd <unknown>
+#6 0x56b4dce8307b <unknown>
+#7 0x56b4dce5c9a3 <unknown>
+#8 0x56b4dce2860e <unknown>
+#9 0x56b4dce29dd1 <unknown>
+#10 0x56b4dd2f3ddb <unknown>
+#11 0x56b4dd2f7cbc <unknown>
+#12 0x56b4dd2db392 <unknown>
+#13 0x56b4dd2f8834 <unknown>
+#14 0x56b4dd2bf1ef <unknown>
+#15 0x56b4dd31c038 <unknown>
+#16 0x56b4dd31c216 <unknown>
+#17 0x56b4dd32c896 <unknown>
+#18 0x7f89c049caa4 <unknown>
+#19 0x7f89c0529c3c <unknown>
+
+2025-03-16 03:12:15 - <üniversite>FENERBAHÇE ÜNİVERSİTESİ</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x558422310a1a <unknown>
+#1 0x558421dc8390 <unknown>
+#2 0x558421e19c85 <unknown>
+#3 0x558421e19eb1 <unknown>
+#4 0x558421e68d64 <unknown>
+#5 0x558421e3fbfd <unknown>
+#6 0x558421e6607b <unknown>
+#7 0x558421e3f9a3 <unknown>
+#8 0x558421e0b60e <unknown>
+#9 0x558421e0cdd1 <unknown>
+#10 0x5584222d6ddb <unknown>
+#11 0x5584222dacbc <unknown>
+#12 0x5584222be392 <unknown>
+#13 0x5584222db834 <unknown>
+#14 0x5584222a21ef <unknown>
+#15 0x5584222ff038 <unknown>
+#16 0x5584222ff216 <unknown>
+#17 0x55842230f896 <unknown>
+#18 0x7ad2d7e9caa4 <unknown>
+#19 0x7ad2d7f29c3c <unknown>
+
+2025-03-16 03:26:57 - <üniversite>İstanbul Ticaret Üniversitesi</üniversite> - Hata: 'NoneType' object has no attribute 'text'
+2025-03-16 03:27:05 - <üniversite>İSTANBUL TOPKAPI ÜNİVERSİTESİ</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5ae34fbcfa1a <unknown>
+#1 0x5ae34f687390 <unknown>
+#2 0x5ae34f6d8c85 <unknown>
+#3 0x5ae34f6d8eb1 <unknown>
+#4 0x5ae34f727d64 <unknown>
+#5 0x5ae34f6febfd <unknown>
+#6 0x5ae34f72507b <unknown>
+#7 0x5ae34f6fe9a3 <unknown>
+#8 0x5ae34f6ca60e <unknown>
+#9 0x5ae34f6cbdd1 <unknown>
+#10 0x5ae34fb95ddb <unknown>
+#11 0x5ae34fb99cbc <unknown>
+#12 0x5ae34fb7d392 <unknown>
+#13 0x5ae34fb9a834 <unknown>
+#14 0x5ae34fb611ef <unknown>
+#15 0x5ae34fbbe038 <unknown>
+#16 0x5ae34fbbe216 <unknown>
+#17 0x5ae34fbce896 <unknown>
+#18 0x79f5a6a9caa4 <unknown>
+#19 0x79f5a6b29c3c <unknown>
+
+2025-03-16 03:27:14 - <üniversite>İstanbul Yeni Yüzyıl Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5ca50acd2a1a <unknown>
+#1 0x5ca50a78a390 <unknown>
+#2 0x5ca50a7dbc85 <unknown>
+#3 0x5ca50a7dbeb1 <unknown>
+#4 0x5ca50a82ad64 <unknown>
+#5 0x5ca50a801bfd <unknown>
+#6 0x5ca50a82807b <unknown>
+#7 0x5ca50a8019a3 <unknown>
+#8 0x5ca50a7cd60e <unknown>
+#9 0x5ca50a7cedd1 <unknown>
+#10 0x5ca50ac98ddb <unknown>
+#11 0x5ca50ac9ccbc <unknown>
+#12 0x5ca50ac80392 <unknown>
+#13 0x5ca50ac9d834 <unknown>
+#14 0x5ca50ac641ef <unknown>
+#15 0x5ca50acc1038 <unknown>
+#16 0x5ca50acc1216 <unknown>
+#17 0x5ca50acd1896 <unknown>
+#18 0x7ee99f69caa4 <unknown>
+#19 0x7ee99f729c3c <unknown>
+
+2025-03-16 03:28:12 - <üniversite>İzmir Demokrasi Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"link text","selector":"İzmir Demokrasi Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x648fb1b61a1a <unknown>
+#1 0x648fb1619390 <unknown>
+#2 0x648fb166ac85 <unknown>
+#3 0x648fb166aeb1 <unknown>
+#4 0x648fb16b9d64 <unknown>
+#5 0x648fb1690bfd <unknown>
+#6 0x648fb16b707b <unknown>
+#7 0x648fb16909a3 <unknown>
+#8 0x648fb165c60e <unknown>
+#9 0x648fb165ddd1 <unknown>
+#10 0x648fb1b27ddb <unknown>
+#11 0x648fb1b2bcbc <unknown>
+#12 0x648fb1b0f392 <unknown>
+#13 0x648fb1b2c834 <unknown>
+#14 0x648fb1af31ef <unknown>
+#15 0x648fb1b50038 <unknown>
+#16 0x648fb1b50216 <unknown>
+#17 0x648fb1b60896 <unknown>
+#18 0x78105a69caa4 <unknown>
+#19 0x78105a729c3c <unknown>
+
+2025-03-16 03:28:21 - <üniversite>İzmir Ekonomi Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x55fb0959ea1a <unknown>
+#1 0x55fb09056390 <unknown>
+#2 0x55fb090a7c85 <unknown>
+#3 0x55fb090a7eb1 <unknown>
+#4 0x55fb090f6d64 <unknown>
+#5 0x55fb090cdbfd <unknown>
+#6 0x55fb090f407b <unknown>
+#7 0x55fb090cd9a3 <unknown>
+#8 0x55fb0909960e <unknown>
+#9 0x55fb0909add1 <unknown>
+#10 0x55fb09564ddb <unknown>
+#11 0x55fb09568cbc <unknown>
+#12 0x55fb0954c392 <unknown>
+#13 0x55fb09569834 <unknown>
+#14 0x55fb095301ef <unknown>
+#15 0x55fb0958d038 <unknown>
+#16 0x55fb0958d216 <unknown>
+#17 0x55fb0959d896 <unknown>
+#18 0x7358e069caa4 <unknown>
+#19 0x7358e0729c3c <unknown>
+
+2025-03-16 03:28:58 - <üniversite>İzmir Tınaztepe Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"link text","selector":"İzmir Tınaztepe Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x635b3b551a1a <unknown>
+#1 0x635b3b009390 <unknown>
+#2 0x635b3b05ac85 <unknown>
+#3 0x635b3b05aeb1 <unknown>
+#4 0x635b3b0a9d64 <unknown>
+#5 0x635b3b080bfd <unknown>
+#6 0x635b3b0a707b <unknown>
+#7 0x635b3b0809a3 <unknown>
+#8 0x635b3b04c60e <unknown>
+#9 0x635b3b04ddd1 <unknown>
+#10 0x635b3b517ddb <unknown>
+#11 0x635b3b51bcbc <unknown>
+#12 0x635b3b4ff392 <unknown>
+#13 0x635b3b51c834 <unknown>
+#14 0x635b3b4e31ef <unknown>
+#15 0x635b3b540038 <unknown>
+#16 0x635b3b540216 <unknown>
+#17 0x635b3b550896 <unknown>
+#18 0x743da289caa4 <unknown>
+#19 0x743da2929c3c <unknown>
+
+2025-03-16 03:37:00 - <üniversite>Melikşah  Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"link text","selector":"Melikşah  Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x64960a514a1a <unknown>
+#1 0x649609fcc390 <unknown>
+#2 0x64960a01dc85 <unknown>
+#3 0x64960a01deb1 <unknown>
+#4 0x64960a06cd64 <unknown>
+#5 0x64960a043bfd <unknown>
+#6 0x64960a06a07b <unknown>
+#7 0x64960a0439a3 <unknown>
+#8 0x64960a00f60e <unknown>
+#9 0x64960a010dd1 <unknown>
+#10 0x64960a4daddb <unknown>
+#11 0x64960a4decbc <unknown>
+#12 0x64960a4c2392 <unknown>
+#13 0x64960a4df834 <unknown>
+#14 0x64960a4a61ef <unknown>
+#15 0x64960a503038 <unknown>
+#16 0x64960a503216 <unknown>
+#17 0x64960a513896 <unknown>
+#18 0x73d44d69caa4 <unknown>
+#19 0x73d44d729c3c <unknown>
+
+2025-03-16 03:41:11 - <üniversite>Nuh Naci Yazgan Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x61404a6e3a1a <unknown>
+#1 0x61404a19b390 <unknown>
+#2 0x61404a1ecc85 <unknown>
+#3 0x61404a1eceb1 <unknown>
+#4 0x61404a23bd64 <unknown>
+#5 0x61404a212bfd <unknown>
+#6 0x61404a23907b <unknown>
+#7 0x61404a2129a3 <unknown>
+#8 0x61404a1de60e <unknown>
+#9 0x61404a1dfdd1 <unknown>
+#10 0x61404a6a9ddb <unknown>
+#11 0x61404a6adcbc <unknown>
+#12 0x61404a691392 <unknown>
+#13 0x61404a6ae834 <unknown>
+#14 0x61404a6751ef <unknown>
+#15 0x61404a6d2038 <unknown>
+#16 0x61404a6d2216 <unknown>
+#17 0x61404a6e2896 <unknown>
+#18 0x7766cdc9caa4 <unknown>
+#19 0x7766cdd29c3c <unknown>
+
+2025-03-16 03:41:19 - <üniversite>Okan Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5dcdf0cd4a1a <unknown>
+#1 0x5dcdf078c390 <unknown>
+#2 0x5dcdf07ddc85 <unknown>
+#3 0x5dcdf07ddeb1 <unknown>
+#4 0x5dcdf082cd64 <unknown>
+#5 0x5dcdf0803bfd <unknown>
+#6 0x5dcdf082a07b <unknown>
+#7 0x5dcdf08039a3 <unknown>
+#8 0x5dcdf07cf60e <unknown>
+#9 0x5dcdf07d0dd1 <unknown>
+#10 0x5dcdf0c9addb <unknown>
+#11 0x5dcdf0c9ecbc <unknown>
+#12 0x5dcdf0c82392 <unknown>
+#13 0x5dcdf0c9f834 <unknown>
+#14 0x5dcdf0c661ef <unknown>
+#15 0x5dcdf0cc3038 <unknown>
+#16 0x5dcdf0cc3216 <unknown>
+#17 0x5dcdf0cd3896 <unknown>
+#18 0x7f4f3549caa4 <unknown>
+#19 0x7f4f35529c3c <unknown>
+
+2025-03-16 03:43:20 - <üniversite>Polis Akademisi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x56f0bb275a1a <unknown>
+#1 0x56f0bad2d390 <unknown>
+#2 0x56f0bad7ec85 <unknown>
+#3 0x56f0bad7eeb1 <unknown>
+#4 0x56f0badcdd64 <unknown>
+#5 0x56f0bada4bfd <unknown>
+#6 0x56f0badcb07b <unknown>
+#7 0x56f0bada49a3 <unknown>
+#8 0x56f0bad7060e <unknown>
+#9 0x56f0bad71dd1 <unknown>
+#10 0x56f0bb23bddb <unknown>
+#11 0x56f0bb23fcbc <unknown>
+#12 0x56f0bb223392 <unknown>
+#13 0x56f0bb240834 <unknown>
+#14 0x56f0bb2071ef <unknown>
+#15 0x56f0bb264038 <unknown>
+#16 0x56f0bb264216 <unknown>
+#17 0x56f0bb274896 <unknown>
+#18 0x71106229caa4 <unknown>
+#19 0x711062329c3c <unknown>
+
+2025-03-16 03:43:28 - <üniversite>Rize Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x557c0b3a8a1a <unknown>
+#1 0x557c0ae60390 <unknown>
+#2 0x557c0aeb1c85 <unknown>
+#3 0x557c0aeb1eb1 <unknown>
+#4 0x557c0af00d64 <unknown>
+#5 0x557c0aed7bfd <unknown>
+#6 0x557c0aefe07b <unknown>
+#7 0x557c0aed79a3 <unknown>
+#8 0x557c0aea360e <unknown>
+#9 0x557c0aea4dd1 <unknown>
+#10 0x557c0b36eddb <unknown>
+#11 0x557c0b372cbc <unknown>
+#12 0x557c0b356392 <unknown>
+#13 0x557c0b373834 <unknown>
+#14 0x557c0b33a1ef <unknown>
+#15 0x557c0b397038 <unknown>
+#16 0x557c0b397216 <unknown>
+#17 0x557c0b3a7896 <unknown>
+#18 0x7bfcc449caa4 <unknown>
+#19 0x7bfcc4529c3c <unknown>
+
+2025-03-16 03:43:36 - <üniversite>Sakarya Uygulamalı Bilimler Üniversitesi</üniversite> - Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x57642c405a1a <unknown>
+#1 0x57642bebd390 <unknown>
+#2 0x57642bf0ec85 <unknown>
+#3 0x57642bf0eeb1 <unknown>
+#4 0x57642bf5dd64 <unknown>
+#5 0x57642bf34bfd <unknown>
+#6 0x57642bf5b07b <unknown>
+#7 0x57642bf349a3 <unknown>
+#8 0x57642bf0060e <unknown>
+#9 0x57642bf01dd1 <unknown>
+#10 0x57642c3cbddb <unknown>
+#11 0x57642c3cfcbc <unknown>
+#12 0x57642c3b3392 <unknown>
+#13 0x57642c3d0834 <unknown>
+#14 0x57642c3971ef <unknown>
+#15 0x57642c3f4038 <unknown>
+#16 0x57642c3f4216 <unknown>
+#17 0x57642c404896 <unknown>
+#18 0x727a50e9caa4 <unknown>
+#19 0x727a50f29c3c <unknown>
+

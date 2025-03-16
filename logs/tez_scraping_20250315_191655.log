@@ -1,0 +1,1578 @@
+2025-03-15 19:16:55,420 - INFO - Log dosyası oluşturuldu: logs/tez_scraping_20250315_191655.log
+2025-03-15 19:16:55,420 - INFO - Toplam 164 üniversite işlenecek.
+2025-03-15 19:16:55,421 - INFO - ==================================================
+2025-03-15 19:16:55,421 - INFO - Abdullah Gül Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:16:55,422 - INFO - ==================================================
+2025-03-15 19:16:57,909 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:17:05,652 - ERROR - HATA: Abdullah Gül Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tabs-1"]/form/table/tbody/tr/td/table/tbody/tr[2]/td[2]/input[1]"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5fe38841ba1a <unknown>
+#1 0x5fe387ed3390 <unknown>
+#2 0x5fe387f24c85 <unknown>
+#3 0x5fe387f24eb1 <unknown>
+#4 0x5fe387f73d64 <unknown>
+#5 0x5fe387f4abfd <unknown>
+#6 0x5fe387f7107b <unknown>
+#7 0x5fe387f4a9a3 <unknown>
+#8 0x5fe387f1660e <unknown>
+#9 0x5fe387f17dd1 <unknown>
+#10 0x5fe3883e1ddb <unknown>
+#11 0x5fe3883e5cbc <unknown>
+#12 0x5fe3883c9392 <unknown>
+#13 0x5fe3883e6834 <unknown>
+#14 0x5fe3883ad1ef <unknown>
+#15 0x5fe38840a038 <unknown>
+#16 0x5fe38840a216 <unknown>
+#17 0x5fe38841a896 <unknown>
+#18 0x720e7a89caa4 <unknown>
+#19 0x720e7a929c3c <unknown>
+
+2025-03-15 19:17:05,653 - INFO - Abdullah Gül Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:17:07,727 - INFO - ==================================================
+2025-03-15 19:17:07,727 - INFO - Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:17:07,728 - INFO - ==================================================
+2025-03-15 19:17:10,192 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:17:13,949 - ERROR - HATA: Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x58abd7040a1a <unknown>
+#1 0x58abd6af8390 <unknown>
+#2 0x58abd6b49c85 <unknown>
+#3 0x58abd6b49eb1 <unknown>
+#4 0x58abd6b98d64 <unknown>
+#5 0x58abd6b6fbfd <unknown>
+#6 0x58abd6b9607b <unknown>
+#7 0x58abd6b6f9a3 <unknown>
+#8 0x58abd6b3b60e <unknown>
+#9 0x58abd6b3cdd1 <unknown>
+#10 0x58abd7006ddb <unknown>
+#11 0x58abd700acbc <unknown>
+#12 0x58abd6fee392 <unknown>
+#13 0x58abd700b834 <unknown>
+#14 0x58abd6fd21ef <unknown>
+#15 0x58abd702f038 <unknown>
+#16 0x58abd702f216 <unknown>
+#17 0x58abd703f896 <unknown>
+#18 0x7600e569caa4 <unknown>
+#19 0x7600e5729c3c <unknown>
+
+2025-03-15 19:17:13,950 - INFO - Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:17:16,009 - INFO - ==================================================
+2025-03-15 19:17:16,010 - INFO - Adana Bilim ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:17:16,011 - INFO - ==================================================
+2025-03-15 19:17:18,507 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:17:36,052 - WARNING - Adana Bilim ve Teknoloji Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:17:36,053 - INFO - Adana Bilim ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:17:38,125 - INFO - ==================================================
+2025-03-15 19:17:38,126 - INFO - Ağrı İbrahim Çeçen Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:17:38,126 - INFO - ==================================================
+2025-03-15 19:17:40,529 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:17:50,687 - ERROR - HATA: Ağrı İbrahim Çeçen Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ağrı İbrahim Çeçen Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x58938ede6a1a <unknown>
+#1 0x58938e89e390 <unknown>
+#2 0x58938e8efc85 <unknown>
+#3 0x58938e8efeb1 <unknown>
+#4 0x58938e93ed64 <unknown>
+#5 0x58938e915bfd <unknown>
+#6 0x58938e93c07b <unknown>
+#7 0x58938e9159a3 <unknown>
+#8 0x58938e8e160e <unknown>
+#9 0x58938e8e2dd1 <unknown>
+#10 0x58938edacddb <unknown>
+#11 0x58938edb0cbc <unknown>
+#12 0x58938ed94392 <unknown>
+#13 0x58938edb1834 <unknown>
+#14 0x58938ed781ef <unknown>
+#15 0x58938edd5038 <unknown>
+#16 0x58938edd5216 <unknown>
+#17 0x58938ede5896 <unknown>
+#18 0x79676709caa4 <unknown>
+#19 0x796767129c3c <unknown>
+
+2025-03-15 19:17:50,688 - INFO - Ağrı İbrahim Çeçen Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:17:52,771 - INFO - ==================================================
+2025-03-15 19:17:52,772 - INFO - Ahi Evran Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:17:52,772 - INFO - ==================================================
+2025-03-15 19:17:56,768 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:18:00,540 - ERROR - HATA: Ahi Evran Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x62037c49fa1a <unknown>
+#1 0x62037bf57390 <unknown>
+#2 0x62037bfa8c85 <unknown>
+#3 0x62037bfa8eb1 <unknown>
+#4 0x62037bff7d64 <unknown>
+#5 0x62037bfcebfd <unknown>
+#6 0x62037bff507b <unknown>
+#7 0x62037bfce9a3 <unknown>
+#8 0x62037bf9a60e <unknown>
+#9 0x62037bf9bdd1 <unknown>
+#10 0x62037c465ddb <unknown>
+#11 0x62037c469cbc <unknown>
+#12 0x62037c44d392 <unknown>
+#13 0x62037c46a834 <unknown>
+#14 0x62037c4311ef <unknown>
+#15 0x62037c48e038 <unknown>
+#16 0x62037c48e216 <unknown>
+#17 0x62037c49e896 <unknown>
+#18 0x7ef27549caa4 <unknown>
+#19 0x7ef275529c3c <unknown>
+
+2025-03-15 19:18:00,541 - INFO - Ahi Evran Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:18:02,602 - INFO - ==================================================
+2025-03-15 19:18:02,603 - INFO - Aksaray Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:18:02,603 - INFO - ==================================================
+2025-03-15 19:18:05,101 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:18:09,000 - ERROR - HATA: Aksaray Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5cea735b7a1a <unknown>
+#1 0x5cea7306f390 <unknown>
+#2 0x5cea730c0c85 <unknown>
+#3 0x5cea730c0eb1 <unknown>
+#4 0x5cea7310fd64 <unknown>
+#5 0x5cea730e6bfd <unknown>
+#6 0x5cea7310d07b <unknown>
+#7 0x5cea730e69a3 <unknown>
+#8 0x5cea730b260e <unknown>
+#9 0x5cea730b3dd1 <unknown>
+#10 0x5cea7357dddb <unknown>
+#11 0x5cea73581cbc <unknown>
+#12 0x5cea73565392 <unknown>
+#13 0x5cea73582834 <unknown>
+#14 0x5cea735491ef <unknown>
+#15 0x5cea735a6038 <unknown>
+#16 0x5cea735a6216 <unknown>
+#17 0x5cea735b6896 <unknown>
+#18 0x7984af09caa4 <unknown>
+#19 0x7984af129c3c <unknown>
+
+2025-03-15 19:18:09,001 - INFO - Aksaray Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:18:11,013 - INFO - ==================================================
+2025-03-15 19:18:11,014 - INFO - Alanya Alaaddin Keykubat Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:18:11,015 - INFO - ==================================================
+2025-03-15 19:18:13,438 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:18:30,770 - WARNING - Alanya Alaaddin Keykubat Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:18:30,772 - INFO - Alanya Alaaddin Keykubat Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:18:32,854 - INFO - ==================================================
+2025-03-15 19:18:32,855 - INFO - Alanya Hamdullah Emin Paşa Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:18:32,855 - INFO - ==================================================
+2025-03-15 19:18:35,266 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:18:52,590 - WARNING - Alanya Hamdullah Emin Paşa Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:18:52,591 - INFO - Alanya Hamdullah Emin Paşa Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:18:54,652 - INFO - ==================================================
+2025-03-15 19:18:54,653 - INFO - ALANYA ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:18:54,654 - INFO - ==================================================
+2025-03-15 19:18:57,284 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:19:14,793 - WARNING - ALANYA ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:19:14,794 - INFO - ALANYA ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:19:16,868 - INFO - ==================================================
+2025-03-15 19:19:16,869 - INFO - ANKARA BİLİM ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:19:16,869 - INFO - ==================================================
+2025-03-15 19:19:21,347 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:19:38,794 - WARNING - ANKARA BİLİM ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:19:38,795 - INFO - ANKARA BİLİM ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:19:40,858 - INFO - ==================================================
+2025-03-15 19:19:40,859 - INFO - Ankara Hacı Bayram Veli Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:19:40,859 - INFO - ==================================================
+2025-03-15 19:19:43,271 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:20:00,654 - WARNING - Ankara Hacı Bayram Veli Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:20:00,655 - INFO - Ankara Hacı Bayram Veli Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:20:02,746 - INFO - ==================================================
+2025-03-15 19:20:02,746 - INFO - Ankara Medipol Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:20:02,747 - INFO - ==================================================
+2025-03-15 19:20:05,232 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:20:22,719 - WARNING - Ankara Medipol Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:20:22,720 - INFO - Ankara Medipol Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:20:24,793 - INFO - ==================================================
+2025-03-15 19:20:24,794 - INFO - ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:20:24,795 - INFO - ==================================================
+2025-03-15 19:20:27,240 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:20:44,587 - WARNING - ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:20:44,588 - INFO - ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:20:46,666 - INFO - ==================================================
+2025-03-15 19:20:46,666 - INFO - Ankara Sosyal Bilimler Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:20:46,667 - INFO - ==================================================
+2025-03-15 19:20:49,096 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:21:06,476 - WARNING - Ankara Sosyal Bilimler Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:21:06,476 - INFO - Ankara Sosyal Bilimler Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:21:08,571 - INFO - ==================================================
+2025-03-15 19:21:08,572 - INFO - Ankara Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:21:08,573 - INFO - ==================================================
+2025-03-15 19:21:10,957 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:21:28,592 - INFO - Ankara Üniversitesi için toplam sonuç sayısı: 4543
+2025-03-15 19:21:28,663 - INFO - 
+Yıl aralığı: 2019-2025 işleniyor...
+2025-03-15 19:21:31,172 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:21:50,954 - INFO - Ankara Üniversitesi için 2019-2025 aralığında 825 sonuç bulundu.
+2025-03-15 19:21:51,087 - INFO - Toplam 825 adet tez verisi alındı.
+2025-03-15 19:21:51,096 - INFO - Veriler data/Ankara Üniversitesi_2019_2025.csv dosyasına kaydedildi.
+2025-03-15 19:21:51,170 - INFO - 
+Yıl aralığı: 2012-2018 işleniyor...
+2025-03-15 19:21:53,721 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:22:13,172 - INFO - Ankara Üniversitesi için 2012-2018 aralığında 712 sonuç bulundu.
+2025-03-15 19:22:13,295 - INFO - Toplam 712 adet tez verisi alındı.
+2025-03-15 19:22:13,302 - INFO - Veriler data/Ankara Üniversitesi_2012_2018.csv dosyasına kaydedildi.
+2025-03-15 19:22:13,373 - INFO - 
+Yıl aralığı: 2005-2011 işleniyor...
+2025-03-15 19:22:16,005 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:22:35,630 - INFO - Ankara Üniversitesi için 2005-2011 aralığında 671 sonuç bulundu.
+2025-03-15 19:22:35,738 - INFO - Toplam 671 adet tez verisi alındı.
+2025-03-15 19:22:35,745 - INFO - Veriler data/Ankara Üniversitesi_2005_2011.csv dosyasına kaydedildi.
+2025-03-15 19:22:35,808 - INFO - 
+Yıl aralığı: 1998-2004 işleniyor...
+2025-03-15 19:22:38,204 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:22:57,676 - INFO - Ankara Üniversitesi için 1998-2004 aralığında 756 sonuç bulundu.
+2025-03-15 19:22:57,793 - INFO - Toplam 756 adet tez verisi alındı.
+2025-03-15 19:22:57,801 - INFO - Veriler data/Ankara Üniversitesi_1998_2004.csv dosyasına kaydedildi.
+2025-03-15 19:22:57,872 - INFO - 
+Yıl aralığı: 1900-1997 işleniyor...
+2025-03-15 19:23:00,466 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:23:20,118 - INFO - Ankara Üniversitesi için 1900-1997 aralığında 1579 sonuç bulundu.
+2025-03-15 19:23:20,323 - INFO - Toplam 1579 adet tez verisi alındı.
+2025-03-15 19:23:20,334 - INFO - Veriler data/Ankara Üniversitesi_1900_1997.csv dosyasına kaydedildi.
+2025-03-15 19:23:20,397 - INFO - Ankara Üniversitesi için 5 aralıktan 5 tanesi başarıyla işlendi.
+2025-03-15 19:23:20,398 - INFO - Ankara Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 19:23:22,400 - INFO - ==================================================
+2025-03-15 19:23:22,401 - INFO - Ankara Yıldırım Beyazıt Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:23:22,402 - INFO - ==================================================
+2025-03-15 19:23:24,904 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:23:42,384 - INFO - Ankara Yıldırım Beyazıt Üniversitesi için toplam sonuç sayısı: 368
+2025-03-15 19:23:42,453 - INFO - Toplam 368 adet tez verisi alındı.
+2025-03-15 19:23:42,458 - INFO - Veriler data/Ankara Yıldırım Beyazıt Üniversitesi.csv dosyasına kaydedildi.
+2025-03-15 19:23:42,519 - INFO - Ankara Yıldırım Beyazıt Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 19:23:44,522 - INFO - ==================================================
+2025-03-15 19:23:44,523 - INFO - ANTALYA BELEK ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:23:44,523 - INFO - ==================================================
+2025-03-15 19:23:46,911 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:24:04,204 - ERROR - HATA: ANTALYA BELEK ÜNİVERSİTESİ işlenirken bir hata oluştu: 'NoneType' object has no attribute 'text'
+2025-03-15 19:24:04,205 - INFO - ANTALYA BELEK ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:24:06,289 - INFO - ==================================================
+2025-03-15 19:24:06,290 - INFO - Antalya Bilim Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:24:06,290 - INFO - ==================================================
+2025-03-15 19:24:08,679 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:24:12,471 - ERROR - HATA: Antalya Bilim Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x56f6c49e7a1a <unknown>
+#1 0x56f6c449f390 <unknown>
+#2 0x56f6c44f0c85 <unknown>
+#3 0x56f6c44f0eb1 <unknown>
+#4 0x56f6c453fd64 <unknown>
+#5 0x56f6c4516bfd <unknown>
+#6 0x56f6c453d07b <unknown>
+#7 0x56f6c45169a3 <unknown>
+#8 0x56f6c44e260e <unknown>
+#9 0x56f6c44e3dd1 <unknown>
+#10 0x56f6c49adddb <unknown>
+#11 0x56f6c49b1cbc <unknown>
+#12 0x56f6c4995392 <unknown>
+#13 0x56f6c49b2834 <unknown>
+#14 0x56f6c49791ef <unknown>
+#15 0x56f6c49d6038 <unknown>
+#16 0x56f6c49d6216 <unknown>
+#17 0x56f6c49e6896 <unknown>
+#18 0x72d6ba69caa4 <unknown>
+#19 0x72d6ba729c3c <unknown>
+
+2025-03-15 19:24:12,472 - INFO - Antalya Bilim Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:24:14,484 - INFO - ==================================================
+2025-03-15 19:24:14,484 - INFO - Ardahan Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:24:14,485 - INFO - ==================================================
+2025-03-15 19:24:17,044 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:24:34,311 - WARNING - Ardahan Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:24:34,312 - INFO - Ardahan Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:24:36,375 - INFO - ==================================================
+2025-03-15 19:24:36,376 - INFO - Artvin Çoruh Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:24:36,377 - INFO - ==================================================
+2025-03-15 19:24:38,794 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:24:56,205 - WARNING - Artvin Çoruh Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:24:56,206 - INFO - Artvin Çoruh Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:24:58,273 - INFO - ==================================================
+2025-03-15 19:24:58,274 - INFO - Atılım Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:24:58,274 - INFO - ==================================================
+2025-03-15 19:25:00,748 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:25:18,180 - WARNING - Atılım Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:25:18,180 - INFO - Atılım Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:25:20,269 - INFO - ==================================================
+2025-03-15 19:25:20,270 - INFO - Avrasya Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:25:20,270 - INFO - ==================================================
+2025-03-15 19:25:22,713 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:25:39,994 - ERROR - HATA: Avrasya Üniversitesi işlenirken bir hata oluştu: 'NoneType' object has no attribute 'text'
+2025-03-15 19:25:39,995 - INFO - Avrasya Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:25:42,067 - INFO - ==================================================
+2025-03-15 19:25:42,067 - INFO - Bahçeşehir Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:25:42,068 - INFO - ==================================================
+2025-03-15 19:25:44,605 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:25:48,337 - ERROR - HATA: Bahçeşehir Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x61ff09511a1a <unknown>
+#1 0x61ff08fc9390 <unknown>
+#2 0x61ff0901ac85 <unknown>
+#3 0x61ff0901aeb1 <unknown>
+#4 0x61ff09069d64 <unknown>
+#5 0x61ff09040bfd <unknown>
+#6 0x61ff0906707b <unknown>
+#7 0x61ff090409a3 <unknown>
+#8 0x61ff0900c60e <unknown>
+#9 0x61ff0900ddd1 <unknown>
+#10 0x61ff094d7ddb <unknown>
+#11 0x61ff094dbcbc <unknown>
+#12 0x61ff094bf392 <unknown>
+#13 0x61ff094dc834 <unknown>
+#14 0x61ff094a31ef <unknown>
+#15 0x61ff09500038 <unknown>
+#16 0x61ff09500216 <unknown>
+#17 0x61ff09510896 <unknown>
+#18 0x7ea237c9caa4 <unknown>
+#19 0x7ea237d29c3c <unknown>
+
+2025-03-15 19:25:48,338 - INFO - Bahçeşehir Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:25:50,397 - INFO - ==================================================
+2025-03-15 19:25:50,398 - INFO - Bandırma Onyedi Eylül Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:25:50,398 - INFO - ==================================================
+2025-03-15 19:25:52,870 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:26:10,253 - WARNING - Bandırma Onyedi Eylül Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:26:10,254 - INFO - Bandırma Onyedi Eylül Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:26:12,326 - INFO - ==================================================
+2025-03-15 19:26:12,327 - INFO - Bartın Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:26:12,328 - INFO - ==================================================
+2025-03-15 19:26:14,827 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:26:32,228 - WARNING - Bartın Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:26:32,229 - INFO - Bartın Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:26:34,297 - INFO - ==================================================
+2025-03-15 19:26:34,298 - INFO - Batman Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:26:34,298 - INFO - ==================================================
+2025-03-15 19:26:36,696 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:26:54,062 - WARNING - Batman Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:26:54,063 - INFO - Batman Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:26:56,134 - INFO - ==================================================
+2025-03-15 19:26:56,135 - INFO - Bayburt Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:26:56,135 - INFO - ==================================================
+2025-03-15 19:26:58,631 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:27:15,958 - WARNING - Bayburt Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:27:15,959 - INFO - Bayburt Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:27:18,042 - INFO - ==================================================
+2025-03-15 19:27:18,043 - INFO - Beykent Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:27:18,044 - INFO - ==================================================
+2025-03-15 19:27:20,556 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:27:37,921 - WARNING - Beykent Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:27:37,922 - INFO - Beykent Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:27:39,999 - INFO - ==================================================
+2025-03-15 19:27:40,000 - INFO - BEYKOZ ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:27:40,000 - INFO - ==================================================
+2025-03-15 19:27:42,492 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:27:59,793 - WARNING - BEYKOZ ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:27:59,794 - INFO - BEYKOZ ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:28:01,857 - INFO - ==================================================
+2025-03-15 19:28:01,858 - INFO - Bilecik Şeyh Edebali Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:28:01,859 - INFO - ==================================================
+2025-03-15 19:28:04,318 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:28:21,603 - WARNING - Bilecik Şeyh Edebali Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:28:21,604 - INFO - Bilecik Şeyh Edebali Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:28:23,674 - INFO - ==================================================
+2025-03-15 19:28:23,675 - INFO - Bingöl Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:28:23,675 - INFO - ==================================================
+2025-03-15 19:28:26,089 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:28:43,494 - WARNING - Bingöl Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:28:43,495 - INFO - Bingöl Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:28:45,565 - INFO - ==================================================
+2025-03-15 19:28:45,566 - INFO - Biruni Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:28:45,566 - INFO - ==================================================
+2025-03-15 19:28:47,976 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:29:05,294 - WARNING - Biruni Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:29:05,295 - INFO - Biruni Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:29:07,367 - INFO - ==================================================
+2025-03-15 19:29:07,368 - INFO - Bitlis Eren Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:29:07,368 - INFO - ==================================================
+2025-03-15 19:29:09,848 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:29:27,129 - WARNING - Bitlis Eren Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:29:27,130 - INFO - Bitlis Eren Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:29:29,197 - INFO - ==================================================
+2025-03-15 19:29:29,198 - INFO - Boğaziçi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:29:29,198 - INFO - ==================================================
+2025-03-15 19:29:31,581 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:29:48,893 - WARNING - Boğaziçi Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:29:48,894 - INFO - Boğaziçi Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:29:51,000 - INFO - ==================================================
+2025-03-15 19:29:51,000 - INFO - Burdur Mehmet Akif Ersoy Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:29:51,001 - INFO - ==================================================
+2025-03-15 19:29:53,442 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:30:10,867 - WARNING - Burdur Mehmet Akif Ersoy Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:30:10,868 - INFO - Burdur Mehmet Akif Ersoy Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:30:12,963 - INFO - ==================================================
+2025-03-15 19:30:12,964 - INFO - Bursa Orhangazi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:30:12,965 - INFO - ==================================================
+2025-03-15 19:30:15,466 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:30:34,573 - WARNING - Bursa Orhangazi Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:30:34,574 - INFO - Bursa Orhangazi Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:30:36,693 - INFO - ==================================================
+2025-03-15 19:30:36,694 - INFO - Bursa Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:30:36,694 - INFO - ==================================================
+2025-03-15 19:30:39,205 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:30:56,674 - WARNING - Bursa Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:30:56,675 - INFO - Bursa Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:30:58,749 - INFO - ==================================================
+2025-03-15 19:30:58,749 - INFO - Canik Başarı Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:30:58,750 - INFO - ==================================================
+2025-03-15 19:31:01,400 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:31:19,029 - WARNING - Canik Başarı Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:31:19,030 - INFO - Canik Başarı Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:31:21,136 - INFO - ==================================================
+2025-03-15 19:31:21,137 - INFO - Çağ Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:31:21,137 - INFO - ==================================================
+2025-03-15 19:31:23,602 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:31:41,015 - WARNING - Çağ Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:31:41,016 - INFO - Çağ Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:31:43,092 - INFO - ==================================================
+2025-03-15 19:31:43,093 - INFO - Çankaya Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:31:43,093 - INFO - ==================================================
+2025-03-15 19:31:45,618 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:32:03,138 - WARNING - Çankaya Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:32:03,139 - INFO - Çankaya Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:32:05,210 - INFO - ==================================================
+2025-03-15 19:32:05,211 - INFO - Deniz Harp Okulu Komutanlığı üniversitesi işleniyor...
+2025-03-15 19:32:05,211 - INFO - ==================================================
+2025-03-15 19:32:07,673 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:32:24,943 - WARNING - Deniz Harp Okulu Komutanlığı için sonuç bulunamadı.
+2025-03-15 19:32:24,943 - INFO - Deniz Harp Okulu Komutanlığı başarısız üniversiteler listesine eklendi.
+2025-03-15 19:32:27,006 - INFO - ==================================================
+2025-03-15 19:32:27,007 - INFO - Doğuş Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:32:27,007 - INFO - ==================================================
+2025-03-15 19:32:29,441 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:32:46,813 - WARNING - Doğuş Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:32:46,814 - INFO - Doğuş Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:32:48,931 - INFO - ==================================================
+2025-03-15 19:32:48,931 - INFO - Erzurum Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:32:48,932 - INFO - ==================================================
+2025-03-15 19:32:51,385 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:33:08,602 - WARNING - Erzurum Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:33:08,603 - INFO - Erzurum Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:33:10,694 - INFO - ==================================================
+2025-03-15 19:33:10,695 - INFO - Eskişehir Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:33:10,696 - INFO - ==================================================
+2025-03-15 19:33:13,240 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:33:30,584 - WARNING - Eskişehir Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:33:30,585 - INFO - Eskişehir Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:33:32,696 - INFO - ==================================================
+2025-03-15 19:33:32,697 - INFO - Fatih Sultan Mehmet Vakıf Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:33:32,697 - INFO - ==================================================
+2025-03-15 19:33:35,101 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:33:52,469 - WARNING - Fatih Sultan Mehmet Vakıf Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:33:52,470 - INFO - Fatih Sultan Mehmet Vakıf Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:33:54,587 - INFO - ==================================================
+2025-03-15 19:33:54,588 - INFO - FENERBAHÇE ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:33:54,588 - INFO - ==================================================
+2025-03-15 19:33:57,102 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:34:14,418 - WARNING - FENERBAHÇE ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:34:14,418 - INFO - FENERBAHÇE ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:34:16,493 - INFO - ==================================================
+2025-03-15 19:34:16,493 - INFO - Gazi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:34:16,494 - INFO - ==================================================
+2025-03-15 19:34:18,938 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:34:36,547 - INFO - Gazi Üniversitesi için toplam sonuç sayısı: 2884
+2025-03-15 19:34:36,628 - INFO - 
+Yıl aralığı: 2013-2025 işleniyor...
+2025-03-15 19:34:39,273 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:34:59,046 - INFO - Gazi Üniversitesi için 2013-2025 aralığında 1156 sonuç bulundu.
+2025-03-15 19:34:59,223 - INFO - Toplam 1156 adet tez verisi alındı.
+2025-03-15 19:34:59,234 - INFO - Veriler data/Gazi Üniversitesi_2013_2025.csv dosyasına kaydedildi.
+2025-03-15 19:34:59,308 - INFO - 
+Yıl aralığı: 1900-2012 işleniyor...
+2025-03-15 19:35:01,704 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:35:21,441 - INFO - Gazi Üniversitesi için 1900-2012 aralığında 1728 sonuç bulundu.
+2025-03-15 19:35:21,684 - INFO - Toplam 1728 adet tez verisi alındı.
+2025-03-15 19:35:21,699 - INFO - Veriler data/Gazi Üniversitesi_1900_2012.csv dosyasına kaydedildi.
+2025-03-15 19:35:21,766 - INFO - Gazi Üniversitesi için 2 aralıktan 2 tanesi başarıyla işlendi.
+2025-03-15 19:35:21,767 - INFO - Gazi Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 19:35:23,770 - INFO - ==================================================
+2025-03-15 19:35:23,770 - INFO - Gaziantep Bilim ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:35:23,771 - INFO - ==================================================
+2025-03-15 19:35:26,201 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:35:43,608 - WARNING - Gaziantep Bilim ve Teknoloji Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:35:43,608 - INFO - Gaziantep Bilim ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:35:45,672 - INFO - ==================================================
+2025-03-15 19:35:45,672 - INFO - GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:35:45,673 - INFO - ==================================================
+2025-03-15 19:35:48,060 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:36:05,426 - WARNING - GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:36:05,428 - INFO - GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:36:07,584 - INFO - ==================================================
+2025-03-15 19:36:07,585 - INFO - Gebze Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:36:07,585 - INFO - ==================================================
+2025-03-15 19:36:09,987 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:36:27,425 - ERROR - HATA: Gebze Teknik Üniversitesi işlenirken bir hata oluştu: 'NoneType' object has no attribute 'text'
+2025-03-15 19:36:27,426 - INFO - Gebze Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:36:29,497 - INFO - ==================================================
+2025-03-15 19:36:29,497 - INFO - Gebze Yüksek Teknoloji Enstitüsü üniversitesi işleniyor...
+2025-03-15 19:36:29,498 - INFO - ==================================================
+2025-03-15 19:36:32,180 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:36:35,969 - ERROR - HATA: Gebze Yüksek Teknoloji Enstitüsü işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x60003096fa1a <unknown>
+#1 0x600030427390 <unknown>
+#2 0x600030478c85 <unknown>
+#3 0x600030478eb1 <unknown>
+#4 0x6000304c7d64 <unknown>
+#5 0x60003049ebfd <unknown>
+#6 0x6000304c507b <unknown>
+#7 0x60003049e9a3 <unknown>
+#8 0x60003046a60e <unknown>
+#9 0x60003046bdd1 <unknown>
+#10 0x600030935ddb <unknown>
+#11 0x600030939cbc <unknown>
+#12 0x60003091d392 <unknown>
+#13 0x60003093a834 <unknown>
+#14 0x6000309011ef <unknown>
+#15 0x60003095e038 <unknown>
+#16 0x60003095e216 <unknown>
+#17 0x60003096e896 <unknown>
+#18 0x749099c9caa4 <unknown>
+#19 0x749099d29c3c <unknown>
+
+2025-03-15 19:36:35,970 - INFO - Gebze Yüksek Teknoloji Enstitüsü başarısız üniversiteler listesine eklendi.
+2025-03-15 19:36:38,030 - INFO - ==================================================
+2025-03-15 19:36:38,031 - INFO - Gedik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:36:38,031 - INFO - ==================================================
+2025-03-15 19:36:40,477 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:36:57,789 - WARNING - Gedik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:36:57,790 - INFO - Gedik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:36:59,906 - INFO - ==================================================
+2025-03-15 19:36:59,907 - INFO - Gediz Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:36:59,907 - INFO - ==================================================
+2025-03-15 19:37:02,412 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:37:19,878 - WARNING - Gediz Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:37:19,879 - INFO - Gediz Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:37:21,954 - INFO - ==================================================
+2025-03-15 19:37:21,955 - INFO - Gümüşhane Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:37:21,955 - INFO - ==================================================
+2025-03-15 19:37:24,364 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:37:41,707 - WARNING - Gümüşhane Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:37:41,707 - INFO - Gümüşhane Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:37:43,784 - INFO - ==================================================
+2025-03-15 19:37:43,785 - INFO - Hakkari Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:37:43,786 - INFO - ==================================================
+2025-03-15 19:37:46,191 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:38:03,427 - WARNING - Hakkari Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:38:03,428 - INFO - Hakkari Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:38:05,537 - INFO - ==================================================
+2025-03-15 19:38:05,538 - INFO - Haliç Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:38:05,538 - INFO - ==================================================
+2025-03-15 19:38:07,971 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:38:25,375 - WARNING - Haliç Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:38:25,376 - INFO - Haliç Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:38:27,478 - INFO - ==================================================
+2025-03-15 19:38:27,479 - INFO - Harp Akademileri Komutanlığı üniversitesi işleniyor...
+2025-03-15 19:38:27,480 - INFO - ==================================================
+2025-03-15 19:38:29,915 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:38:57,469 - WARNING - Harp Akademileri Komutanlığı için sonuç bulunamadı.
+2025-03-15 19:38:57,470 - INFO - Harp Akademileri Komutanlığı başarısız üniversiteler listesine eklendi.
+2025-03-15 19:38:59,571 - INFO - ==================================================
+2025-03-15 19:38:59,572 - INFO - Hasan Kalyoncu Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:38:59,573 - INFO - ==================================================
+2025-03-15 19:39:02,001 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:39:19,338 - WARNING - Hasan Kalyoncu Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:39:19,339 - INFO - Hasan Kalyoncu Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:39:21,445 - INFO - ==================================================
+2025-03-15 19:39:21,445 - INFO - Hava Harp Okulu Komutanlığı üniversitesi işleniyor...
+2025-03-15 19:39:21,446 - INFO - ==================================================
+2025-03-15 19:39:23,893 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:39:41,196 - WARNING - Hava Harp Okulu Komutanlığı için sonuç bulunamadı.
+2025-03-15 19:39:41,197 - INFO - Hava Harp Okulu Komutanlığı başarısız üniversiteler listesine eklendi.
+2025-03-15 19:39:43,280 - INFO - ==================================================
+2025-03-15 19:39:43,281 - INFO - Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:39:43,282 - INFO - ==================================================
+2025-03-15 19:39:45,751 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:40:03,031 - WARNING - Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:40:03,032 - INFO - Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:40:05,102 - INFO - ==================================================
+2025-03-15 19:40:05,103 - INFO - Iğdır Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:40:05,104 - INFO - ==================================================
+2025-03-15 19:40:07,589 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:40:25,021 - WARNING - Iğdır Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:40:25,022 - INFO - Iğdır Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:40:27,093 - INFO - ==================================================
+2025-03-15 19:40:27,094 - INFO - Isparta Uygulamalı Bilimler Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:40:27,094 - INFO - ==================================================
+2025-03-15 19:40:29,524 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:40:46,822 - WARNING - Isparta Uygulamalı Bilimler Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:40:46,823 - INFO - Isparta Uygulamalı Bilimler Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:40:48,904 - INFO - ==================================================
+2025-03-15 19:40:48,905 - INFO - Işık Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:40:48,906 - INFO - ==================================================
+2025-03-15 19:40:51,384 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:41:08,834 - WARNING - Işık Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:41:08,835 - INFO - Işık Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:41:10,908 - INFO - ==================================================
+2025-03-15 19:41:10,909 - INFO - İbn Haldun Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:41:10,909 - INFO - ==================================================
+2025-03-15 19:41:13,389 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:41:30,887 - WARNING - İbn Haldun Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:41:30,888 - INFO - İbn Haldun Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:41:33,014 - INFO - ==================================================
+2025-03-15 19:41:33,014 - INFO - İhsan Doğramacı Bilkent Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:41:33,015 - INFO - ==================================================
+2025-03-15 19:41:35,557 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:41:52,919 - WARNING - İhsan Doğramacı Bilkent Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:41:52,920 - INFO - İhsan Doğramacı Bilkent Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:41:55,011 - INFO - ==================================================
+2025-03-15 19:41:55,012 - INFO - İpek Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:41:55,012 - INFO - ==================================================
+2025-03-15 19:41:57,508 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:42:15,015 - WARNING - İpek Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:42:15,016 - INFO - İpek Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:42:17,078 - INFO - ==================================================
+2025-03-15 19:42:17,079 - INFO - İskenderun Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:42:17,079 - INFO - ==================================================
+2025-03-15 19:42:19,628 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:42:36,965 - WARNING - İskenderun Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:42:36,966 - INFO - İskenderun Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:42:39,059 - INFO - ==================================================
+2025-03-15 19:42:39,060 - INFO - İstanbul Arel Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:42:39,060 - INFO - ==================================================
+2025-03-15 19:42:41,446 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:42:58,811 - WARNING - İstanbul Arel Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:42:58,811 - INFO - İstanbul Arel Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:43:00,923 - INFO - ==================================================
+2025-03-15 19:43:00,924 - INFO - İstanbul Atlas Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:43:00,924 - INFO - ==================================================
+2025-03-15 19:43:03,462 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:43:20,870 - WARNING - İstanbul Atlas Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:43:20,871 - INFO - İstanbul Atlas Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:43:22,982 - INFO - ==================================================
+2025-03-15 19:43:22,982 - INFO - İstanbul Aydın Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:43:22,983 - INFO - ==================================================
+2025-03-15 19:43:25,368 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:43:42,777 - WARNING - İstanbul Aydın Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:43:42,778 - INFO - İstanbul Aydın Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:43:44,874 - INFO - ==================================================
+2025-03-15 19:43:44,875 - INFO - İSTANBUL AYVANSARAY ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:43:44,875 - INFO - ==================================================
+2025-03-15 19:43:47,474 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:44:04,880 - WARNING - İSTANBUL AYVANSARAY ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:44:04,881 - INFO - İSTANBUL AYVANSARAY ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:44:06,952 - INFO - ==================================================
+2025-03-15 19:44:06,953 - INFO - İSTANBUL BEYKENT ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:44:06,954 - INFO - ==================================================
+2025-03-15 19:44:09,411 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:44:26,866 - WARNING - İSTANBUL BEYKENT ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:44:26,867 - INFO - İSTANBUL BEYKENT ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:44:28,937 - INFO - ==================================================
+2025-03-15 19:44:28,938 - INFO - İstanbul Bilgi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:44:28,938 - INFO - ==================================================
+2025-03-15 19:44:31,376 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:44:48,893 - WARNING - İstanbul Bilgi Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:44:48,894 - INFO - İstanbul Bilgi Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:44:50,962 - INFO - ==================================================
+2025-03-15 19:44:50,963 - INFO - İstanbul Bilim Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:44:50,963 - INFO - ==================================================
+2025-03-15 19:44:53,435 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:45:12,494 - INFO - İstanbul Bilim Üniversitesi için toplam sonuç sayısı: 104
+2025-03-15 19:45:12,526 - INFO - Toplam 104 adet tez verisi alındı.
+2025-03-15 19:45:12,529 - INFO - Veriler data/İstanbul Bilim Üniversitesi.csv dosyasına kaydedildi.
+2025-03-15 19:45:12,596 - INFO - İstanbul Bilim Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 19:45:14,599 - INFO - ==================================================
+2025-03-15 19:45:14,600 - INFO - İstanbul Esenyurt Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:45:14,601 - INFO - ==================================================
+2025-03-15 19:45:17,062 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:45:36,108 - WARNING - İstanbul Esenyurt Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:45:36,109 - INFO - İstanbul Esenyurt Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:45:38,173 - INFO - ==================================================
+2025-03-15 19:45:38,174 - INFO - İstanbul Gedik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:45:38,175 - INFO - ==================================================
+2025-03-15 19:45:40,652 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:45:58,037 - WARNING - İstanbul Gedik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:45:58,037 - INFO - İstanbul Gedik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:46:00,156 - INFO - ==================================================
+2025-03-15 19:46:00,157 - INFO - İstanbul Gelişim Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:46:00,157 - INFO - ==================================================
+2025-03-15 19:46:02,620 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:46:19,954 - WARNING - İstanbul Gelişim Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:46:19,955 - INFO - İstanbul Gelişim Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:46:22,022 - INFO - ==================================================
+2025-03-15 19:46:22,023 - INFO - İstanbul Kemerburgaz Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:46:22,023 - INFO - ==================================================
+2025-03-15 19:46:24,446 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:46:41,797 - WARNING - İstanbul Kemerburgaz Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:46:41,798 - INFO - İstanbul Kemerburgaz Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:46:43,906 - INFO - ==================================================
+2025-03-15 19:46:43,907 - INFO - İstanbul Kent Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:46:43,907 - INFO - ==================================================
+2025-03-15 19:46:46,313 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:47:03,654 - WARNING - İstanbul Kent Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:47:03,655 - INFO - İstanbul Kent Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:47:05,782 - INFO - ==================================================
+2025-03-15 19:47:05,783 - INFO - İstanbul Kültür Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:47:05,783 - INFO - ==================================================
+2025-03-15 19:47:08,255 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:47:25,727 - WARNING - İstanbul Kültür Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:47:25,728 - INFO - İstanbul Kültür Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:47:27,824 - INFO - ==================================================
+2025-03-15 19:47:27,825 - INFO - İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:47:27,825 - INFO - ==================================================
+2025-03-15 19:47:30,264 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:47:47,735 - WARNING - İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:47:47,736 - INFO - İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:47:49,826 - INFO - ==================================================
+2025-03-15 19:47:49,827 - INFO - İstanbul Okan Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:47:49,828 - INFO - ==================================================
+2025-03-15 19:47:52,444 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:48:09,901 - WARNING - İstanbul Okan Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:48:09,901 - INFO - İstanbul Okan Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:48:11,977 - INFO - ==================================================
+2025-03-15 19:48:11,978 - INFO - İstanbul Rumeli Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:48:11,978 - INFO - ==================================================
+2025-03-15 19:48:14,420 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:48:31,852 - WARNING - İstanbul Rumeli Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:48:31,853 - INFO - İstanbul Rumeli Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:48:33,993 - INFO - ==================================================
+2025-03-15 19:48:33,994 - INFO - İstanbul Sabahattin Zaim Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:48:33,994 - INFO - ==================================================
+2025-03-15 19:48:36,537 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:48:53,973 - WARNING - İstanbul Sabahattin Zaim Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:48:53,974 - INFO - İstanbul Sabahattin Zaim Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:48:56,037 - INFO - ==================================================
+2025-03-15 19:48:56,038 - INFO - İstanbul Sağlık ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:48:56,039 - INFO - ==================================================
+2025-03-15 19:48:58,697 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:49:15,948 - WARNING - İstanbul Sağlık ve Teknoloji Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:49:15,949 - INFO - İstanbul Sağlık ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:49:18,047 - INFO - ==================================================
+2025-03-15 19:49:18,048 - INFO - İstanbul Şehir Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:49:18,049 - INFO - ==================================================
+2025-03-15 19:49:20,539 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:49:37,842 - WARNING - İstanbul Şehir Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:49:37,843 - INFO - İstanbul Şehir Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:49:39,907 - INFO - ==================================================
+2025-03-15 19:49:39,908 - INFO - İstanbul Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:49:39,908 - INFO - ==================================================
+2025-03-15 19:49:42,316 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:49:59,626 - WARNING - İstanbul Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:49:59,627 - INFO - İstanbul Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:50:01,693 - INFO - ==================================================
+2025-03-15 19:50:01,694 - INFO - İstanbul Ticaret Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:50:01,695 - INFO - ==================================================
+2025-03-15 19:50:04,130 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:50:21,578 - WARNING - İstanbul Ticaret Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:50:21,579 - INFO - İstanbul Ticaret Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:50:23,654 - INFO - ==================================================
+2025-03-15 19:50:23,655 - INFO - İSTANBUL TOPKAPI ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:50:23,656 - INFO - ==================================================
+2025-03-15 19:50:26,147 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:50:43,557 - WARNING - İSTANBUL TOPKAPI ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:50:43,558 - INFO - İSTANBUL TOPKAPI ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:50:45,670 - INFO - ==================================================
+2025-03-15 19:50:45,671 - INFO - İstanbul Üniversitesi-Cerrahpaşa üniversitesi işleniyor...
+2025-03-15 19:50:45,672 - INFO - ==================================================
+2025-03-15 19:50:48,077 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:51:05,579 - INFO - İstanbul Üniversitesi-Cerrahpaşa için toplam sonuç sayısı: 755
+2025-03-15 19:51:05,704 - INFO - Toplam 755 adet tez verisi alındı.
+2025-03-15 19:51:05,711 - INFO - Veriler data/İstanbul Üniversitesi-Cerrahpaşa.csv dosyasına kaydedildi.
+2025-03-15 19:51:05,787 - INFO - İstanbul Üniversitesi-Cerrahpaşa için işlem başarıyla tamamlandı.
+2025-03-15 19:51:07,788 - INFO - ==================================================
+2025-03-15 19:51:07,789 - INFO - İstanbul Yeni Yüzyıl Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:51:07,789 - INFO - ==================================================
+2025-03-15 19:51:10,242 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:51:27,470 - WARNING - İstanbul Yeni Yüzyıl Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:51:27,471 - INFO - İstanbul Yeni Yüzyıl Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:51:29,543 - INFO - ==================================================
+2025-03-15 19:51:29,543 - INFO - İstanbul 29 Mayıs Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:51:29,544 - INFO - ==================================================
+2025-03-15 19:51:31,943 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:51:49,278 - WARNING - İstanbul 29 Mayıs Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:51:49,279 - INFO - İstanbul 29 Mayıs Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:51:51,360 - INFO - ==================================================
+2025-03-15 19:51:51,361 - INFO - İstinye Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:51:51,362 - INFO - ==================================================
+2025-03-15 19:51:53,786 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:52:11,129 - WARNING - İstinye Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:52:11,129 - INFO - İstinye Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:52:13,242 - INFO - ==================================================
+2025-03-15 19:52:13,243 - INFO - İzmir Demokrasi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:52:13,243 - INFO - ==================================================
+2025-03-15 19:52:15,798 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:52:33,135 - WARNING - İzmir Demokrasi Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:52:33,136 - INFO - İzmir Demokrasi Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:52:35,198 - INFO - ==================================================
+2025-03-15 19:52:35,199 - INFO - İzmir Ekonomi Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:52:35,200 - INFO - ==================================================
+2025-03-15 19:52:37,623 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:52:54,973 - WARNING - İzmir Ekonomi Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:52:54,974 - INFO - İzmir Ekonomi Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:52:57,087 - INFO - ==================================================
+2025-03-15 19:52:57,088 - INFO - İzmir Yüksek Teknoloji Enstitüsü üniversitesi işleniyor...
+2025-03-15 19:52:57,088 - INFO - ==================================================
+2025-03-15 19:52:59,491 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:53:17,001 - WARNING - İzmir Yüksek Teknoloji Enstitüsü için sonuç bulunamadı.
+2025-03-15 19:53:17,001 - INFO - İzmir Yüksek Teknoloji Enstitüsü başarısız üniversiteler listesine eklendi.
+2025-03-15 19:53:19,123 - INFO - ==================================================
+2025-03-15 19:53:19,124 - INFO - İzmir Tınaztepe Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:53:19,124 - INFO - ==================================================
+2025-03-15 19:53:21,636 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:53:31,763 - ERROR - HATA: İzmir Tınaztepe Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"link text","selector":"İzmir Tınaztepe Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5bb9a9412a1a <unknown>
+#1 0x5bb9a8eca390 <unknown>
+#2 0x5bb9a8f1bc85 <unknown>
+#3 0x5bb9a8f1beb1 <unknown>
+#4 0x5bb9a8f6ad64 <unknown>
+#5 0x5bb9a8f41bfd <unknown>
+#6 0x5bb9a8f6807b <unknown>
+#7 0x5bb9a8f419a3 <unknown>
+#8 0x5bb9a8f0d60e <unknown>
+#9 0x5bb9a8f0edd1 <unknown>
+#10 0x5bb9a93d8ddb <unknown>
+#11 0x5bb9a93dccbc <unknown>
+#12 0x5bb9a93c0392 <unknown>
+#13 0x5bb9a93dd834 <unknown>
+#14 0x5bb9a93a41ef <unknown>
+#15 0x5bb9a9401038 <unknown>
+#16 0x5bb9a9401216 <unknown>
+#17 0x5bb9a9411896 <unknown>
+#18 0x77908c09caa4 <unknown>
+#19 0x77908c129c3c <unknown>
+
+2025-03-15 19:53:31,764 - INFO - İzmir Tınaztepe Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:53:33,819 - INFO - ==================================================
+2025-03-15 19:53:33,820 - INFO - Jandarma ve Sahil Güvenlik Akademisi üniversitesi işleniyor...
+2025-03-15 19:53:33,820 - INFO - ==================================================
+2025-03-15 19:53:36,446 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:53:53,875 - WARNING - Jandarma ve Sahil Güvenlik Akademisi için sonuç bulunamadı.
+2025-03-15 19:53:53,876 - INFO - Jandarma ve Sahil Güvenlik Akademisi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:53:56,013 - INFO - ==================================================
+2025-03-15 19:53:56,014 - INFO - Kahramanmaraş İstiklal Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:53:56,015 - INFO - ==================================================
+2025-03-15 19:53:58,533 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:54:16,004 - WARNING - Kahramanmaraş İstiklal Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:54:16,005 - INFO - Kahramanmaraş İstiklal Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:54:18,065 - INFO - ==================================================
+2025-03-15 19:54:18,066 - INFO - Kapadokya Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:54:18,066 - INFO - ==================================================
+2025-03-15 19:54:20,480 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:54:37,918 - WARNING - Kapadokya Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:54:37,919 - INFO - Kapadokya Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:54:40,051 - INFO - ==================================================
+2025-03-15 19:54:40,052 - INFO - Kara Harp Okulu Komutanlığı üniversitesi işleniyor...
+2025-03-15 19:54:40,052 - INFO - ==================================================
+2025-03-15 19:54:42,581 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:54:59,874 - WARNING - Kara Harp Okulu Komutanlığı için sonuç bulunamadı.
+2025-03-15 19:54:59,875 - INFO - Kara Harp Okulu Komutanlığı başarısız üniversiteler listesine eklendi.
+2025-03-15 19:55:01,987 - INFO - ==================================================
+2025-03-15 19:55:01,987 - INFO - Karamanoğlu Mehmetbey Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:55:01,988 - INFO - ==================================================
+2025-03-15 19:55:04,815 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:55:22,230 - WARNING - Karamanoğlu Mehmetbey Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:55:22,231 - INFO - Karamanoğlu Mehmetbey Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:55:24,298 - INFO - ==================================================
+2025-03-15 19:55:24,298 - INFO - Kastamonu Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:55:24,299 - INFO - ==================================================
+2025-03-15 19:55:26,817 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:55:44,182 - WARNING - Kastamonu Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:55:44,182 - INFO - Kastamonu Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:55:46,252 - INFO - ==================================================
+2025-03-15 19:55:46,253 - INFO - Kayseri Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:55:46,254 - INFO - ==================================================
+2025-03-15 19:55:48,693 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:56:06,120 - WARNING - Kayseri Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:56:06,121 - INFO - Kayseri Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:56:08,253 - INFO - ==================================================
+2025-03-15 19:56:08,254 - INFO - Kırgızistan-Türkiye Manas Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:56:08,254 - INFO - ==================================================
+2025-03-15 19:56:10,652 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:56:28,036 - WARNING - Kırgızistan-Türkiye Manas Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:56:28,037 - INFO - Kırgızistan-Türkiye Manas Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:56:30,112 - INFO - ==================================================
+2025-03-15 19:56:30,113 - INFO - Kırklareli Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:56:30,113 - INFO - ==================================================
+2025-03-15 19:56:32,577 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:56:50,090 - WARNING - Kırklareli Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:56:50,091 - INFO - Kırklareli Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:56:52,164 - INFO - ==================================================
+2025-03-15 19:56:52,165 - INFO - Kilis 7 Aralık Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:56:52,166 - INFO - ==================================================
+2025-03-15 19:56:54,589 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:57:12,061 - WARNING - Kilis 7 Aralık Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:57:12,062 - INFO - Kilis 7 Aralık Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:57:14,201 - INFO - ==================================================
+2025-03-15 19:57:14,202 - INFO - KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:57:14,202 - INFO - ==================================================
+2025-03-15 19:57:16,645 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:57:33,942 - WARNING - KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:57:33,943 - INFO - KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:57:36,011 - INFO - ==================================================
+2025-03-15 19:57:36,011 - INFO - Koç Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:57:36,012 - INFO - ==================================================
+2025-03-15 19:57:43,439 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:58:00,780 - WARNING - Koç Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:58:00,781 - INFO - Koç Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:58:02,842 - INFO - ==================================================
+2025-03-15 19:58:02,843 - INFO - Konya Gıda ve Tarım Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:58:02,843 - INFO - ==================================================
+2025-03-15 19:58:05,400 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:58:22,706 - WARNING - Konya Gıda ve Tarım Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:58:22,707 - INFO - Konya Gıda ve Tarım Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:58:24,777 - INFO - ==================================================
+2025-03-15 19:58:24,778 - INFO - Konya Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:58:24,779 - INFO - ==================================================
+2025-03-15 19:58:27,284 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:58:44,645 - WARNING - Konya Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:58:44,646 - INFO - Konya Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:58:46,758 - INFO - ==================================================
+2025-03-15 19:58:46,759 - INFO - KTO Karatay Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:58:46,760 - INFO - ==================================================
+2025-03-15 19:58:49,250 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:59:06,655 - WARNING - KTO Karatay Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:59:06,656 - INFO - KTO Karatay Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:59:08,727 - INFO - ==================================================
+2025-03-15 19:59:08,728 - INFO - Kütahya Dumlupınar Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:59:08,728 - INFO - ==================================================
+2025-03-15 19:59:11,146 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:59:28,631 - WARNING - Kütahya Dumlupınar Üniversitesi için sonuç bulunamadı.
+2025-03-15 19:59:28,632 - INFO - Kütahya Dumlupınar Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 19:59:30,698 - INFO - ==================================================
+2025-03-15 19:59:30,699 - INFO - LOKMAN HEKİM ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 19:59:30,699 - INFO - ==================================================
+2025-03-15 19:59:33,206 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 19:59:50,590 - WARNING - LOKMAN HEKİM ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 19:59:50,591 - INFO - LOKMAN HEKİM ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 19:59:52,654 - INFO - ==================================================
+2025-03-15 19:59:52,655 - INFO - Malatya Turgut Özal Üniversitesi üniversitesi işleniyor...
+2025-03-15 19:59:52,655 - INFO - ==================================================
+2025-03-15 19:59:55,112 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:00:12,411 - WARNING - Malatya Turgut Özal Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:00:12,412 - INFO - Malatya Turgut Özal Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:00:14,483 - INFO - ==================================================
+2025-03-15 20:00:14,484 - INFO - Mardin Artuklu Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:00:14,484 - INFO - ==================================================
+2025-03-15 20:00:16,952 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:00:34,221 - WARNING - Mardin Artuklu Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:00:34,222 - INFO - Mardin Artuklu Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:00:36,296 - INFO - ==================================================
+2025-03-15 20:00:36,297 - INFO - MEF ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 20:00:36,297 - INFO - ==================================================
+2025-03-15 20:00:38,812 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:00:56,127 - WARNING - MEF ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 20:00:56,128 - INFO - MEF ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 20:00:58,252 - INFO - ==================================================
+2025-03-15 20:00:58,253 - INFO - Mehmet Akif Ersoy Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:00:58,253 - INFO - ==================================================
+2025-03-15 20:01:00,802 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:01:18,191 - WARNING - Mehmet Akif Ersoy Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:01:18,192 - INFO - Mehmet Akif Ersoy Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:01:20,263 - INFO - ==================================================
+2025-03-15 20:01:20,263 - INFO - Melikşah  Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:01:20,264 - INFO - ==================================================
+2025-03-15 20:01:22,710 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:01:32,722 - ERROR - HATA: Melikşah  Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"link text","selector":"Melikşah  Üniversitesi"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5c2456533a1a <unknown>
+#1 0x5c2455feb390 <unknown>
+#2 0x5c245603cc85 <unknown>
+#3 0x5c245603ceb1 <unknown>
+#4 0x5c245608bd64 <unknown>
+#5 0x5c2456062bfd <unknown>
+#6 0x5c245608907b <unknown>
+#7 0x5c24560629a3 <unknown>
+#8 0x5c245602e60e <unknown>
+#9 0x5c245602fdd1 <unknown>
+#10 0x5c24564f9ddb <unknown>
+#11 0x5c24564fdcbc <unknown>
+#12 0x5c24564e1392 <unknown>
+#13 0x5c24564fe834 <unknown>
+#14 0x5c24564c51ef <unknown>
+#15 0x5c2456522038 <unknown>
+#16 0x5c2456522216 <unknown>
+#17 0x5c2456532896 <unknown>
+#18 0x723d8ce9caa4 <unknown>
+#19 0x723d8cf29c3c <unknown>
+
+2025-03-15 20:01:32,723 - INFO - Melikşah  Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:01:34,778 - INFO - ==================================================
+2025-03-15 20:01:34,779 - INFO - Mevlana Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:01:34,780 - INFO - ==================================================
+2025-03-15 20:01:38,981 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:01:56,320 - WARNING - Mevlana Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:01:56,321 - INFO - Mevlana Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:01:58,383 - INFO - ==================================================
+2025-03-15 20:01:58,383 - INFO - Milli Savunma Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:01:58,384 - INFO - ==================================================
+2025-03-15 20:02:00,855 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:02:18,234 - WARNING - Milli Savunma Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:02:18,235 - INFO - Milli Savunma Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:02:20,298 - INFO - ==================================================
+2025-03-15 20:02:20,299 - INFO - Mimar Sinan Güzel Sanatlar Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:02:20,300 - INFO - ==================================================
+2025-03-15 20:02:22,812 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:02:40,212 - WARNING - Mimar Sinan Güzel Sanatlar Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:02:40,213 - INFO - Mimar Sinan Güzel Sanatlar Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:02:42,275 - INFO - ==================================================
+2025-03-15 20:02:42,276 - INFO - MUDANYA ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 20:02:42,277 - INFO - ==================================================
+2025-03-15 20:02:44,709 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:03:01,985 - WARNING - MUDANYA ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 20:03:01,986 - INFO - MUDANYA ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 20:03:04,049 - INFO - ==================================================
+2025-03-15 20:03:04,049 - INFO - Muğla Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:03:04,050 - INFO - ==================================================
+2025-03-15 20:03:06,455 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:03:23,768 - WARNING - Muğla Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:03:23,769 - INFO - Muğla Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:03:25,830 - INFO - ==================================================
+2025-03-15 20:03:25,831 - INFO - Munzur Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:03:25,831 - INFO - ==================================================
+2025-03-15 20:03:28,382 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:03:45,750 - WARNING - Munzur Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:03:45,751 - INFO - Munzur Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:03:47,884 - INFO - ==================================================
+2025-03-15 20:03:47,885 - INFO - Muş Alparslan Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:03:47,885 - INFO - ==================================================
+2025-03-15 20:03:50,397 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:04:07,774 - WARNING - Muş Alparslan Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:04:07,775 - INFO - Muş Alparslan Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:04:09,840 - INFO - ==================================================
+2025-03-15 20:04:09,840 - INFO - Nevşehir Hacı Bektaş Veli Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:04:09,841 - INFO - ==================================================
+2025-03-15 20:04:12,299 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:04:29,810 - WARNING - Nevşehir Hacı Bektaş Veli Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:04:29,810 - INFO - Nevşehir Hacı Bektaş Veli Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:04:31,965 - INFO - ==================================================
+2025-03-15 20:04:31,965 - INFO - Nevşehir Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:04:31,966 - INFO - ==================================================
+2025-03-15 20:04:34,492 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:04:53,577 - WARNING - Nevşehir Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:04:53,577 - INFO - Nevşehir Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:04:55,651 - INFO - ==================================================
+2025-03-15 20:04:55,652 - INFO - Niğde Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:04:55,652 - INFO - ==================================================
+2025-03-15 20:04:58,031 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:05:15,456 - WARNING - Niğde Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:05:15,457 - INFO - Niğde Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:05:17,532 - INFO - ==================================================
+2025-03-15 20:05:17,533 - INFO - Nişantaşı Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:05:17,534 - INFO - ==================================================
+2025-03-15 20:05:20,156 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:05:37,725 - WARNING - Nişantaşı Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:05:37,726 - INFO - Nişantaşı Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:05:39,798 - INFO - ==================================================
+2025-03-15 20:05:39,799 - INFO - Nuh Naci Yazgan Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:05:39,799 - INFO - ==================================================
+2025-03-15 20:05:42,314 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:05:59,654 - WARNING - Nuh Naci Yazgan Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:05:59,655 - INFO - Nuh Naci Yazgan Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:06:01,717 - INFO - ==================================================
+2025-03-15 20:06:01,718 - INFO - Okan Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:06:01,718 - INFO - ==================================================
+2025-03-15 20:06:04,193 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:06:21,682 - WARNING - Okan Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:06:21,683 - INFO - Okan Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:06:23,827 - INFO - ==================================================
+2025-03-15 20:06:23,828 - INFO - Orta Doğu Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:06:23,828 - INFO - ==================================================
+2025-03-15 20:06:26,243 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:06:43,578 - WARNING - Orta Doğu Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:06:43,578 - INFO - Orta Doğu Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:06:45,642 - INFO - ==================================================
+2025-03-15 20:06:45,643 - INFO - Osmaniye Korkut Ata Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:06:45,643 - INFO - ==================================================
+2025-03-15 20:06:48,152 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:07:05,550 - WARNING - Osmaniye Korkut Ata Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:07:05,551 - INFO - Osmaniye Korkut Ata Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:07:07,613 - INFO - ==================================================
+2025-03-15 20:07:07,614 - INFO - OSTİM TEKNİK ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 20:07:07,614 - INFO - ==================================================
+2025-03-15 20:07:10,087 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:07:27,420 - WARNING - OSTİM TEKNİK ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 20:07:27,420 - INFO - OSTİM TEKNİK ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 20:07:29,493 - INFO - ==================================================
+2025-03-15 20:07:29,493 - INFO - Özyeğin Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:07:29,494 - INFO - ==================================================
+2025-03-15 20:07:31,904 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:07:49,260 - WARNING - Özyeğin Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:07:49,261 - INFO - Özyeğin Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:07:51,338 - INFO - ==================================================
+2025-03-15 20:07:51,339 - INFO - Piri Reis Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:07:51,339 - INFO - ==================================================
+2025-03-15 20:07:53,778 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:08:11,193 - WARNING - Piri Reis Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:08:11,193 - INFO - Piri Reis Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:08:13,264 - INFO - ==================================================
+2025-03-15 20:08:13,265 - INFO - Polis Akademisi üniversitesi işleniyor...
+2025-03-15 20:08:13,265 - INFO - ==================================================
+2025-03-15 20:08:15,730 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:08:33,081 - WARNING - Polis Akademisi için sonuç bulunamadı.
+2025-03-15 20:08:33,082 - INFO - Polis Akademisi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:08:35,208 - INFO - ==================================================
+2025-03-15 20:08:35,209 - INFO - Rize Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:08:35,209 - INFO - ==================================================
+2025-03-15 20:08:37,606 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:08:55,832 - WARNING - Rize Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:08:55,833 - INFO - Rize Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:08:57,906 - INFO - ==================================================
+2025-03-15 20:08:57,906 - INFO - Sabancı Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:08:57,907 - INFO - ==================================================
+2025-03-15 20:09:00,323 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:09:17,679 - INFO - Sabancı Üniversitesi için toplam sonuç sayısı: 1
+2025-03-15 20:09:17,689 - INFO - Toplam 1 adet tez verisi alındı.
+2025-03-15 20:09:17,691 - INFO - Veriler data/Sabancı Üniversitesi.csv dosyasına kaydedildi.
+2025-03-15 20:09:17,755 - INFO - Sabancı Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 20:09:19,758 - INFO - ==================================================
+2025-03-15 20:09:19,758 - INFO - Sakarya Uygulamalı Bilimler Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:09:19,759 - INFO - ==================================================
+2025-03-15 20:09:22,233 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:09:39,571 - WARNING - Sakarya Uygulamalı Bilimler Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:09:39,572 - INFO - Sakarya Uygulamalı Bilimler Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:09:41,644 - INFO - ==================================================
+2025-03-15 20:09:41,644 - INFO - Semerkand Bilim ve Medeniyet Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:09:41,645 - INFO - ==================================================
+2025-03-15 20:09:44,050 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:10:01,370 - WARNING - Semerkand Bilim ve Medeniyet Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:10:01,371 - INFO - Semerkand Bilim ve Medeniyet Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:10:03,441 - INFO - ==================================================
+2025-03-15 20:10:03,442 - INFO - Siirt Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:10:03,443 - INFO - ==================================================
+2025-03-15 20:10:06,371 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:10:23,719 - WARNING - Siirt Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:10:23,720 - INFO - Siirt Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:10:25,783 - INFO - ==================================================
+2025-03-15 20:10:25,784 - INFO - Sinop Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:10:25,784 - INFO - ==================================================
+2025-03-15 20:10:28,177 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:10:45,473 - WARNING - Sinop Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:10:45,474 - INFO - Sinop Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:10:47,535 - INFO - ==================================================
+2025-03-15 20:10:47,536 - INFO - Sivas Bilim ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:10:47,537 - INFO - ==================================================
+2025-03-15 20:10:50,019 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:11:07,432 - WARNING - Sivas Bilim ve Teknoloji Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:11:07,433 - INFO - Sivas Bilim ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:11:09,502 - INFO - ==================================================
+2025-03-15 20:11:09,503 - INFO - Süleyman Şah Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:11:09,504 - INFO - ==================================================
+2025-03-15 20:11:11,926 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:11:29,315 - WARNING - Süleyman Şah Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:11:29,316 - INFO - Süleyman Şah Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:11:31,388 - INFO - ==================================================
+2025-03-15 20:11:31,388 - INFO - Şırnak Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:11:31,389 - INFO - ==================================================
+2025-03-15 20:11:33,906 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:11:51,303 - WARNING - Şırnak Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:11:51,304 - INFO - Şırnak Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:11:53,373 - INFO - ==================================================
+2025-03-15 20:11:53,374 - INFO - Şifa Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:11:53,374 - INFO - ==================================================
+2025-03-15 20:11:55,891 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:12:13,380 - INFO - Şifa Üniversitesi için toplam sonuç sayısı: 1
+2025-03-15 20:12:13,392 - INFO - Toplam 1 adet tez verisi alındı.
+2025-03-15 20:12:13,393 - INFO - Veriler data/Şifa Üniversitesi.csv dosyasına kaydedildi.
+2025-03-15 20:12:13,457 - INFO - Şifa Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 20:12:15,460 - INFO - ==================================================
+2025-03-15 20:12:15,460 - INFO - Tarsus Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:12:15,461 - INFO - ==================================================
+2025-03-15 20:12:17,873 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:12:21,595 - ERROR - HATA: Tarsus Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5efa4c668a1a <unknown>
+#1 0x5efa4c120390 <unknown>
+#2 0x5efa4c171c85 <unknown>
+#3 0x5efa4c171eb1 <unknown>
+#4 0x5efa4c1c0d64 <unknown>
+#5 0x5efa4c197bfd <unknown>
+#6 0x5efa4c1be07b <unknown>
+#7 0x5efa4c1979a3 <unknown>
+#8 0x5efa4c16360e <unknown>
+#9 0x5efa4c164dd1 <unknown>
+#10 0x5efa4c62eddb <unknown>
+#11 0x5efa4c632cbc <unknown>
+#12 0x5efa4c616392 <unknown>
+#13 0x5efa4c633834 <unknown>
+#14 0x5efa4c5fa1ef <unknown>
+#15 0x5efa4c657038 <unknown>
+#16 0x5efa4c657216 <unknown>
+#17 0x5efa4c667896 <unknown>
+#18 0x793a5c69caa4 <unknown>
+#19 0x793a5c729c3c <unknown>
+
+2025-03-15 20:12:21,596 - INFO - Tarsus Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:12:23,656 - INFO - ==================================================
+2025-03-15 20:12:23,656 - INFO - TED Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:12:23,657 - INFO - ==================================================
+2025-03-15 20:12:26,087 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:12:29,832 - ERROR - HATA: TED Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5df44f04ca1a <unknown>
+#1 0x5df44eb04390 <unknown>
+#2 0x5df44eb55c85 <unknown>
+#3 0x5df44eb55eb1 <unknown>
+#4 0x5df44eba4d64 <unknown>
+#5 0x5df44eb7bbfd <unknown>
+#6 0x5df44eba207b <unknown>
+#7 0x5df44eb7b9a3 <unknown>
+#8 0x5df44eb4760e <unknown>
+#9 0x5df44eb48dd1 <unknown>
+#10 0x5df44f012ddb <unknown>
+#11 0x5df44f016cbc <unknown>
+#12 0x5df44effa392 <unknown>
+#13 0x5df44f017834 <unknown>
+#14 0x5df44efde1ef <unknown>
+#15 0x5df44f03b038 <unknown>
+#16 0x5df44f03b216 <unknown>
+#17 0x5df44f04b896 <unknown>
+#18 0x77309d49caa4 <unknown>
+#19 0x77309d529c3c <unknown>
+
+2025-03-15 20:12:29,833 - INFO - TED Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:12:31,893 - INFO - ==================================================
+2025-03-15 20:12:31,893 - INFO - TOBB Ekonomi ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:12:31,894 - INFO - ==================================================
+2025-03-15 20:12:34,424 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:12:51,760 - WARNING - TOBB Ekonomi ve Teknoloji Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:12:51,761 - INFO - TOBB Ekonomi ve Teknoloji Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:12:53,830 - INFO - ==================================================
+2025-03-15 20:12:53,831 - INFO - Toros Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:12:53,831 - INFO - ==================================================
+2025-03-15 20:12:56,224 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:13:03,935 - ERROR - HATA: Toros Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tabs-1"]/form/table/tbody/tr/td/table/tbody/tr[2]/td[2]/input[1]"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x638505181a1a <unknown>
+#1 0x638504c39390 <unknown>
+#2 0x638504c8ac85 <unknown>
+#3 0x638504c8aeb1 <unknown>
+#4 0x638504cd9d64 <unknown>
+#5 0x638504cb0bfd <unknown>
+#6 0x638504cd707b <unknown>
+#7 0x638504cb09a3 <unknown>
+#8 0x638504c7c60e <unknown>
+#9 0x638504c7ddd1 <unknown>
+#10 0x638505147ddb <unknown>
+#11 0x63850514bcbc <unknown>
+#12 0x63850512f392 <unknown>
+#13 0x63850514c834 <unknown>
+#14 0x6385051131ef <unknown>
+#15 0x638505170038 <unknown>
+#16 0x638505170216 <unknown>
+#17 0x638505180896 <unknown>
+#18 0x7dc8c5a9caa4 <unknown>
+#19 0x7dc8c5b29c3c <unknown>
+
+2025-03-15 20:13:03,936 - INFO - Toros Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:13:05,952 - INFO - ==================================================
+2025-03-15 20:13:05,953 - INFO - Trabzon Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:13:05,953 - INFO - ==================================================
+2025-03-15 20:13:08,433 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:13:12,241 - ERROR - HATA: Trabzon Üniversitesi işlenirken bir hata oluştu: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="navigation2"]/ul/li[2]/a"}
+  (Session info: chrome=134.0.6998.88)
+Stacktrace:
+#0 0x5e7053ad9a1a <unknown>
+#1 0x5e7053591390 <unknown>
+#2 0x5e70535e2c85 <unknown>
+#3 0x5e70535e2eb1 <unknown>
+#4 0x5e7053631d64 <unknown>
+#5 0x5e7053608bfd <unknown>
+#6 0x5e705362f07b <unknown>
+#7 0x5e70536089a3 <unknown>
+#8 0x5e70535d460e <unknown>
+#9 0x5e70535d5dd1 <unknown>
+#10 0x5e7053a9fddb <unknown>
+#11 0x5e7053aa3cbc <unknown>
+#12 0x5e7053a87392 <unknown>
+#13 0x5e7053aa4834 <unknown>
+#14 0x5e7053a6b1ef <unknown>
+#15 0x5e7053ac8038 <unknown>
+#16 0x5e7053ac8216 <unknown>
+#17 0x5e7053ad8896 <unknown>
+#18 0x723d2989caa4 <unknown>
+#19 0x723d29929c3c <unknown>
+
+2025-03-15 20:13:12,242 - INFO - Trabzon Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:13:14,301 - INFO - ==================================================
+2025-03-15 20:13:14,302 - INFO - Trakya Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:13:14,303 - INFO - ==================================================
+2025-03-15 20:13:16,735 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:13:34,281 - INFO - Trakya Üniversitesi için toplam sonuç sayısı: 1937
+2025-03-15 20:13:34,550 - INFO - Toplam 1937 adet tez verisi alındı.
+2025-03-15 20:13:34,566 - INFO - Veriler data/Trakya Üniversitesi.csv dosyasına kaydedildi.
+2025-03-15 20:13:34,647 - INFO - Trakya Üniversitesi için işlem başarıyla tamamlandı.
+2025-03-15 20:13:36,650 - INFO - ==================================================
+2025-03-15 20:13:36,651 - INFO - Tunceli Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:13:36,651 - INFO - ==================================================
+2025-03-15 20:13:39,101 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:13:56,574 - WARNING - Tunceli Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:13:56,574 - INFO - Tunceli Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:13:58,648 - INFO - ==================================================
+2025-03-15 20:13:58,649 - INFO - Türk Hava Kurumu Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:13:58,649 - INFO - ==================================================
+2025-03-15 20:14:01,149 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:14:18,471 - WARNING - Türk Hava Kurumu Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:14:18,472 - INFO - Türk Hava Kurumu Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:14:20,547 - INFO - ==================================================
+2025-03-15 20:14:20,548 - INFO - Türk-Alman Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:14:20,548 - INFO - ==================================================
+2025-03-15 20:14:23,171 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:14:40,620 - WARNING - Türk-Alman Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:14:40,621 - INFO - Türk-Alman Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:14:42,773 - INFO - ==================================================
+2025-03-15 20:14:42,774 - INFO - Üsküdar Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:14:42,775 - INFO - ==================================================
+2025-03-15 20:14:45,404 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:15:02,781 - WARNING - Üsküdar Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:15:02,782 - INFO - Üsküdar Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:15:04,852 - INFO - ==================================================
+2025-03-15 20:15:04,853 - INFO - Yalova Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:15:04,853 - INFO - ==================================================
+2025-03-15 20:15:07,402 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:15:24,848 - WARNING - Yalova Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:15:24,848 - INFO - Yalova Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:15:26,924 - INFO - ==================================================
+2025-03-15 20:15:26,925 - INFO - Yaşar Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:15:26,925 - INFO - ==================================================
+2025-03-15 20:15:29,371 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:15:47,695 - WARNING - Yaşar Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:15:47,696 - INFO - Yaşar Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:15:49,757 - INFO - ==================================================
+2025-03-15 20:15:49,758 - INFO - Yeni Yüzyıl Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:15:49,759 - INFO - ==================================================
+2025-03-15 20:15:52,190 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:16:09,577 - WARNING - Yeni Yüzyıl Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:16:09,578 - INFO - Yeni Yüzyıl Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:16:11,647 - INFO - ==================================================
+2025-03-15 20:16:11,647 - INFO - Yıldız Teknik Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:16:11,648 - INFO - ==================================================
+2025-03-15 20:16:14,037 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:16:31,405 - WARNING - Yıldız Teknik Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:16:31,406 - INFO - Yıldız Teknik Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:16:33,512 - INFO - ==================================================
+2025-03-15 20:16:33,512 - INFO - YÜKSEK İHTİSAS ÜNİVERSİTESİ üniversitesi işleniyor...
+2025-03-15 20:16:33,513 - INFO - ==================================================
+2025-03-15 20:16:35,977 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:16:53,385 - WARNING - YÜKSEK İHTİSAS ÜNİVERSİTESİ için sonuç bulunamadı.
+2025-03-15 20:16:53,386 - INFO - YÜKSEK İHTİSAS ÜNİVERSİTESİ başarısız üniversiteler listesine eklendi.
+2025-03-15 20:16:55,450 - INFO - ==================================================
+2025-03-15 20:16:55,450 - INFO - Zirve Üniversitesi üniversitesi işleniyor...
+2025-03-15 20:16:55,451 - INFO - ==================================================
+2025-03-15 20:16:57,909 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 20:17:15,494 - WARNING - Zirve Üniversitesi için sonuç bulunamadı.
+2025-03-15 20:17:15,495 - INFO - Zirve Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 20:17:17,566 - INFO - 
+==================================================
+2025-03-15 20:17:17,567 - INFO - İŞLEM ÖZET RAPORU
+2025-03-15 20:17:17,567 - INFO - ==================================================
+2025-03-15 20:17:17,568 - INFO - Toplam üniversite sayısı: 164
+2025-03-15 20:17:17,568 - INFO - Başarılı işlenen üniversite sayısı: 8
+2025-03-15 20:17:17,569 - INFO - Başarısız üniversite sayısı: 156
+2025-03-15 20:17:17,569 - WARNING - Başarısız üniversiteler:
+2025-03-15 20:17:17,569 - WARNING - <üniversite>Abdullah Gül Üniversitesi</üniversite>
+2025-03-15 20:17:17,570 - WARNING - <üniversite>Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,570 - WARNING - <üniversite>Adana Bilim ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,571 - WARNING - <üniversite>Ağrı İbrahim Çeçen Üniversitesi</üniversite>
+2025-03-15 20:17:17,571 - WARNING - <üniversite>Ahi Evran Üniversitesi</üniversite>
+2025-03-15 20:17:17,572 - WARNING - <üniversite>Aksaray Üniversitesi</üniversite>
+2025-03-15 20:17:17,572 - WARNING - <üniversite>Alanya Alaaddin Keykubat Üniversitesi</üniversite>
+2025-03-15 20:17:17,573 - WARNING - <üniversite>Alanya Hamdullah Emin Paşa Üniversitesi</üniversite>
+2025-03-15 20:17:17,573 - WARNING - <üniversite>ALANYA ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,574 - WARNING - <üniversite>ANKARA BİLİM ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,574 - WARNING - <üniversite>Ankara Hacı Bayram Veli Üniversitesi</üniversite>
+2025-03-15 20:17:17,574 - WARNING - <üniversite>Ankara Medipol Üniversitesi</üniversite>
+2025-03-15 20:17:17,575 - WARNING - <üniversite>ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,575 - WARNING - <üniversite>Ankara Sosyal Bilimler Üniversitesi</üniversite>
+2025-03-15 20:17:17,576 - WARNING - <üniversite>ANTALYA BELEK ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,576 - WARNING - <üniversite>Antalya Bilim Üniversitesi</üniversite>
+2025-03-15 20:17:17,576 - WARNING - <üniversite>Ardahan Üniversitesi</üniversite>
+2025-03-15 20:17:17,577 - WARNING - <üniversite>Artvin Çoruh Üniversitesi</üniversite>
+2025-03-15 20:17:17,577 - WARNING - <üniversite>Atılım Üniversitesi</üniversite>
+2025-03-15 20:17:17,578 - WARNING - <üniversite>Avrasya Üniversitesi</üniversite>
+2025-03-15 20:17:17,578 - WARNING - <üniversite>Bahçeşehir Üniversitesi</üniversite>
+2025-03-15 20:17:17,578 - WARNING - <üniversite>Bandırma Onyedi Eylül Üniversitesi</üniversite>
+2025-03-15 20:17:17,579 - WARNING - <üniversite>Bartın Üniversitesi</üniversite>
+2025-03-15 20:17:17,580 - WARNING - <üniversite>Batman Üniversitesi</üniversite>
+2025-03-15 20:17:17,580 - WARNING - <üniversite>Bayburt Üniversitesi</üniversite>
+2025-03-15 20:17:17,580 - WARNING - <üniversite>Beykent Üniversitesi</üniversite>
+2025-03-15 20:17:17,581 - WARNING - <üniversite>BEYKOZ ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,581 - WARNING - <üniversite>Bilecik Şeyh Edebali Üniversitesi</üniversite>
+2025-03-15 20:17:17,581 - WARNING - <üniversite>Bingöl Üniversitesi</üniversite>
+2025-03-15 20:17:17,581 - WARNING - <üniversite>Biruni Üniversitesi</üniversite>
+2025-03-15 20:17:17,582 - WARNING - <üniversite>Bitlis Eren Üniversitesi</üniversite>
+2025-03-15 20:17:17,582 - WARNING - <üniversite>Boğaziçi Üniversitesi</üniversite>
+2025-03-15 20:17:17,583 - WARNING - <üniversite>Burdur Mehmet Akif Ersoy Üniversitesi</üniversite>
+2025-03-15 20:17:17,583 - WARNING - <üniversite>Bursa Orhangazi Üniversitesi</üniversite>
+2025-03-15 20:17:17,583 - WARNING - <üniversite>Bursa Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,583 - WARNING - <üniversite>Canik Başarı Üniversitesi</üniversite>
+2025-03-15 20:17:17,584 - WARNING - <üniversite>Çağ Üniversitesi</üniversite>
+2025-03-15 20:17:17,584 - WARNING - <üniversite>Çankaya Üniversitesi</üniversite>
+2025-03-15 20:17:17,584 - WARNING - <üniversite>Deniz Harp Okulu Komutanlığı</üniversite>
+2025-03-15 20:17:17,585 - WARNING - <üniversite>Doğuş Üniversitesi</üniversite>
+2025-03-15 20:17:17,585 - WARNING - <üniversite>Erzurum Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,586 - WARNING - <üniversite>Eskişehir Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,586 - WARNING - <üniversite>Fatih Sultan Mehmet Vakıf Üniversitesi</üniversite>
+2025-03-15 20:17:17,587 - WARNING - <üniversite>FENERBAHÇE ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,587 - WARNING - <üniversite>Gaziantep Bilim ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,588 - WARNING - <üniversite>GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,588 - WARNING - <üniversite>Gebze Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,588 - WARNING - <üniversite>Gebze Yüksek Teknoloji Enstitüsü</üniversite>
+2025-03-15 20:17:17,589 - WARNING - <üniversite>Gedik Üniversitesi</üniversite>
+2025-03-15 20:17:17,589 - WARNING - <üniversite>Gediz Üniversitesi</üniversite>
+2025-03-15 20:17:17,589 - WARNING - <üniversite>Gümüşhane Üniversitesi</üniversite>
+2025-03-15 20:17:17,590 - WARNING - <üniversite>Hakkari Üniversitesi</üniversite>
+2025-03-15 20:17:17,590 - WARNING - <üniversite>Haliç Üniversitesi</üniversite>
+2025-03-15 20:17:17,590 - WARNING - <üniversite>Harp Akademileri Komutanlığı</üniversite>
+2025-03-15 20:17:17,592 - WARNING - <üniversite>Hasan Kalyoncu Üniversitesi</üniversite>
+2025-03-15 20:17:17,592 - WARNING - <üniversite>Hava Harp Okulu Komutanlığı</üniversite>
+2025-03-15 20:17:17,592 - WARNING - <üniversite>Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi</üniversite>
+2025-03-15 20:17:17,593 - WARNING - <üniversite>Iğdır Üniversitesi</üniversite>
+2025-03-15 20:17:17,593 - WARNING - <üniversite>Isparta Uygulamalı Bilimler Üniversitesi</üniversite>
+2025-03-15 20:17:17,593 - WARNING - <üniversite>Işık Üniversitesi</üniversite>
+2025-03-15 20:17:17,594 - WARNING - <üniversite>İbn Haldun Üniversitesi</üniversite>
+2025-03-15 20:17:17,595 - WARNING - <üniversite>İhsan Doğramacı Bilkent Üniversitesi</üniversite>
+2025-03-15 20:17:17,595 - WARNING - <üniversite>İpek Üniversitesi</üniversite>
+2025-03-15 20:17:17,595 - WARNING - <üniversite>İskenderun Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,595 - WARNING - <üniversite>İstanbul Arel Üniversitesi</üniversite>
+2025-03-15 20:17:17,596 - WARNING - <üniversite>İstanbul Atlas Üniversitesi</üniversite>
+2025-03-15 20:17:17,596 - WARNING - <üniversite>İstanbul Aydın Üniversitesi</üniversite>
+2025-03-15 20:17:17,597 - WARNING - <üniversite>İSTANBUL AYVANSARAY ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,597 - WARNING - <üniversite>İSTANBUL BEYKENT ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,598 - WARNING - <üniversite>İstanbul Bilgi Üniversitesi</üniversite>
+2025-03-15 20:17:17,598 - WARNING - <üniversite>İstanbul Esenyurt Üniversitesi</üniversite>
+2025-03-15 20:17:17,598 - WARNING - <üniversite>İstanbul Gedik Üniversitesi</üniversite>
+2025-03-15 20:17:17,599 - WARNING - <üniversite>İstanbul Gelişim Üniversitesi</üniversite>
+2025-03-15 20:17:17,599 - WARNING - <üniversite>İstanbul Kemerburgaz Üniversitesi</üniversite>
+2025-03-15 20:17:17,600 - WARNING - <üniversite>İstanbul Kent Üniversitesi</üniversite>
+2025-03-15 20:17:17,600 - WARNING - <üniversite>İstanbul Kültür Üniversitesi</üniversite>
+2025-03-15 20:17:17,600 - WARNING - <üniversite>İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,600 - WARNING - <üniversite>İstanbul Okan Üniversitesi</üniversite>
+2025-03-15 20:17:17,601 - WARNING - <üniversite>İstanbul Rumeli Üniversitesi</üniversite>
+2025-03-15 20:17:17,602 - WARNING - <üniversite>İstanbul Sabahattin Zaim Üniversitesi</üniversite>
+2025-03-15 20:17:17,602 - WARNING - <üniversite>İstanbul Sağlık ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,602 - WARNING - <üniversite>İstanbul Şehir Üniversitesi</üniversite>
+2025-03-15 20:17:17,603 - WARNING - <üniversite>İstanbul Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,603 - WARNING - <üniversite>İstanbul Ticaret Üniversitesi</üniversite>
+2025-03-15 20:17:17,604 - WARNING - <üniversite>İSTANBUL TOPKAPI ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,604 - WARNING - <üniversite>İstanbul Yeni Yüzyıl Üniversitesi</üniversite>
+2025-03-15 20:17:17,604 - WARNING - <üniversite>İstanbul 29 Mayıs Üniversitesi</üniversite>
+2025-03-15 20:17:17,605 - WARNING - <üniversite>İstinye Üniversitesi</üniversite>
+2025-03-15 20:17:17,605 - WARNING - <üniversite>İzmir Demokrasi Üniversitesi</üniversite>
+2025-03-15 20:17:17,606 - WARNING - <üniversite>İzmir Ekonomi Üniversitesi</üniversite>
+2025-03-15 20:17:17,606 - WARNING - <üniversite>İzmir Yüksek Teknoloji Enstitüsü</üniversite>
+2025-03-15 20:17:17,606 - WARNING - <üniversite>İzmir Tınaztepe Üniversitesi</üniversite>
+2025-03-15 20:17:17,607 - WARNING - <üniversite>Jandarma ve Sahil Güvenlik Akademisi</üniversite>
+2025-03-15 20:17:17,607 - WARNING - <üniversite>Kahramanmaraş İstiklal Üniversitesi</üniversite>
+2025-03-15 20:17:17,607 - WARNING - <üniversite>Kapadokya Üniversitesi</üniversite>
+2025-03-15 20:17:17,607 - WARNING - <üniversite>Kara Harp Okulu Komutanlığı</üniversite>
+2025-03-15 20:17:17,608 - WARNING - <üniversite>Karamanoğlu Mehmetbey Üniversitesi</üniversite>
+2025-03-15 20:17:17,608 - WARNING - <üniversite>Kastamonu Üniversitesi</üniversite>
+2025-03-15 20:17:17,608 - WARNING - <üniversite>Kayseri Üniversitesi</üniversite>
+2025-03-15 20:17:17,609 - WARNING - <üniversite>Kırgızistan-Türkiye Manas Üniversitesi</üniversite>
+2025-03-15 20:17:17,609 - WARNING - <üniversite>Kırklareli Üniversitesi</üniversite>
+2025-03-15 20:17:17,609 - WARNING - <üniversite>Kilis 7 Aralık Üniversitesi</üniversite>
+2025-03-15 20:17:17,609 - WARNING - <üniversite>KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,611 - WARNING - <üniversite>Koç Üniversitesi</üniversite>
+2025-03-15 20:17:17,611 - WARNING - <üniversite>Konya Gıda ve Tarım Üniversitesi</üniversite>
+2025-03-15 20:17:17,611 - WARNING - <üniversite>Konya Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,612 - WARNING - <üniversite>KTO Karatay Üniversitesi</üniversite>
+2025-03-15 20:17:17,612 - WARNING - <üniversite>Kütahya Dumlupınar Üniversitesi</üniversite>
+2025-03-15 20:17:17,612 - WARNING - <üniversite>LOKMAN HEKİM ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,613 - WARNING - <üniversite>Malatya Turgut Özal Üniversitesi</üniversite>
+2025-03-15 20:17:17,613 - WARNING - <üniversite>Mardin Artuklu Üniversitesi</üniversite>
+2025-03-15 20:17:17,614 - WARNING - <üniversite>MEF ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,614 - WARNING - <üniversite>Mehmet Akif Ersoy Üniversitesi</üniversite>
+2025-03-15 20:17:17,614 - WARNING - <üniversite>Melikşah  Üniversitesi</üniversite>
+2025-03-15 20:17:17,616 - WARNING - <üniversite>Mevlana Üniversitesi</üniversite>
+2025-03-15 20:17:17,617 - WARNING - <üniversite>Milli Savunma Üniversitesi</üniversite>
+2025-03-15 20:17:17,618 - WARNING - <üniversite>Mimar Sinan Güzel Sanatlar Üniversitesi</üniversite>
+2025-03-15 20:17:17,618 - WARNING - <üniversite>MUDANYA ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,619 - WARNING - <üniversite>Muğla Üniversitesi</üniversite>
+2025-03-15 20:17:17,619 - WARNING - <üniversite>Munzur Üniversitesi</üniversite>
+2025-03-15 20:17:17,620 - WARNING - <üniversite>Muş Alparslan Üniversitesi</üniversite>
+2025-03-15 20:17:17,621 - WARNING - <üniversite>Nevşehir Hacı Bektaş Veli Üniversitesi</üniversite>
+2025-03-15 20:17:17,621 - WARNING - <üniversite>Nevşehir Üniversitesi</üniversite>
+2025-03-15 20:17:17,622 - WARNING - <üniversite>Niğde Üniversitesi</üniversite>
+2025-03-15 20:17:17,622 - WARNING - <üniversite>Nişantaşı Üniversitesi</üniversite>
+2025-03-15 20:17:17,623 - WARNING - <üniversite>Nuh Naci Yazgan Üniversitesi</üniversite>
+2025-03-15 20:17:17,623 - WARNING - <üniversite>Okan Üniversitesi</üniversite>
+2025-03-15 20:17:17,624 - WARNING - <üniversite>Orta Doğu Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,624 - WARNING - <üniversite>Osmaniye Korkut Ata Üniversitesi</üniversite>
+2025-03-15 20:17:17,625 - WARNING - <üniversite>OSTİM TEKNİK ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,625 - WARNING - <üniversite>Özyeğin Üniversitesi</üniversite>
+2025-03-15 20:17:17,626 - WARNING - <üniversite>Piri Reis Üniversitesi</üniversite>
+2025-03-15 20:17:17,627 - WARNING - <üniversite>Polis Akademisi</üniversite>
+2025-03-15 20:17:17,627 - WARNING - <üniversite>Rize Üniversitesi</üniversite>
+2025-03-15 20:17:17,627 - WARNING - <üniversite>Sakarya Uygulamalı Bilimler Üniversitesi</üniversite>
+2025-03-15 20:17:17,628 - WARNING - <üniversite>Semerkand Bilim ve Medeniyet Üniversitesi</üniversite>
+2025-03-15 20:17:17,628 - WARNING - <üniversite>Siirt Üniversitesi</üniversite>
+2025-03-15 20:17:17,629 - WARNING - <üniversite>Sinop Üniversitesi</üniversite>
+2025-03-15 20:17:17,629 - WARNING - <üniversite>Sivas Bilim ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,630 - WARNING - <üniversite>Süleyman Şah Üniversitesi</üniversite>
+2025-03-15 20:17:17,631 - WARNING - <üniversite>Şırnak Üniversitesi</üniversite>
+2025-03-15 20:17:17,631 - WARNING - <üniversite>Tarsus Üniversitesi</üniversite>
+2025-03-15 20:17:17,631 - WARNING - <üniversite>TED Üniversitesi</üniversite>
+2025-03-15 20:17:17,632 - WARNING - <üniversite>TOBB Ekonomi ve Teknoloji Üniversitesi</üniversite>
+2025-03-15 20:17:17,632 - WARNING - <üniversite>Toros Üniversitesi</üniversite>
+2025-03-15 20:17:17,633 - WARNING - <üniversite>Trabzon Üniversitesi</üniversite>
+2025-03-15 20:17:17,633 - WARNING - <üniversite>Tunceli Üniversitesi</üniversite>
+2025-03-15 20:17:17,634 - WARNING - <üniversite>Türk Hava Kurumu Üniversitesi</üniversite>
+2025-03-15 20:17:17,634 - WARNING - <üniversite>Türk-Alman Üniversitesi</üniversite>
+2025-03-15 20:17:17,635 - WARNING - <üniversite>Üsküdar Üniversitesi</üniversite>
+2025-03-15 20:17:17,636 - WARNING - <üniversite>Yalova Üniversitesi</üniversite>
+2025-03-15 20:17:17,636 - WARNING - <üniversite>Yaşar Üniversitesi</üniversite>
+2025-03-15 20:17:17,637 - WARNING - <üniversite>Yeni Yüzyıl Üniversitesi</üniversite>
+2025-03-15 20:17:17,637 - WARNING - <üniversite>Yıldız Teknik Üniversitesi</üniversite>
+2025-03-15 20:17:17,638 - WARNING - <üniversite>YÜKSEK İHTİSAS ÜNİVERSİTESİ</üniversite>
+2025-03-15 20:17:17,638 - WARNING - <üniversite>Zirve Üniversitesi</üniversite>
+2025-03-15 20:17:17,639 - INFO - Özet rapor logs/ozet_20250315_201717.txt dosyasına kaydedildi.
+2025-03-15 20:17:17,640 - INFO - Başarısız üniversiteler 'failed_universities.txt' dosyasına kaydedildi.
+2025-03-15 20:17:17,640 - INFO - 
+Tüm üniversiteler için işlem tamamlandı!
+2025-03-15 22:04:19,279 - INFO - Log dosyası oluşturuldu: logs/tez_scraping_20250315_220419.log
+2025-03-15 22:04:19,280 - INFO - Toplam 156 üniversite işlenecek.
+2025-03-15 22:04:19,280 - INFO - ==================================================
+2025-03-15 22:04:19,281 - INFO - Abdullah Gül Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:04:19,281 - INFO - ==================================================
+2025-03-15 22:04:21,842 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:04:39,349 - INFO - Abdullah Gül Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:04:41,411 - INFO - ==================================================
+2025-03-15 22:04:41,412 - INFO - Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:04:41,412 - INFO - ==================================================
+2025-03-15 22:04:43,927 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:05:01,335 - INFO - Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:05:03,402 - INFO - ==================================================
+2025-03-15 22:05:03,403 - INFO - Adana Bilim ve Teknoloji Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:05:03,404 - INFO - ==================================================
+2025-03-15 22:05:06,092 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:05:23,505 - INFO - Adana Bilim ve Teknoloji Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:05:25,576 - INFO - ==================================================
+2025-03-15 22:05:25,577 - INFO - Ağrı İbrahim Çeçen Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:05:25,578 - INFO - ==================================================
+2025-03-15 22:05:28,223 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:05:45,710 - INFO - Ağrı İbrahim Çeçen Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:05:47,781 - INFO - ==================================================
+2025-03-15 22:05:47,782 - INFO - Ahi Evran Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:05:47,783 - INFO - ==================================================
+2025-03-15 22:05:50,327 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:06:07,810 - INFO - Ahi Evran Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:06:09,882 - INFO - ==================================================
+2025-03-15 22:06:09,883 - INFO - Aksaray Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:06:09,883 - INFO - ==================================================
+2025-03-15 22:06:12,562 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:06:30,021 - INFO - Aksaray Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:06:32,089 - INFO - ==================================================
+2025-03-15 22:06:32,090 - INFO - Alanya Alaaddin Keykubat Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:06:32,090 - INFO - ==================================================
+2025-03-15 22:06:34,583 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:06:51,829 - INFO - Alanya Alaaddin Keykubat Üniversitesi için tıpta uzmanlık tezi bulunmadı. Bu bir hata değil.
+2025-03-15 22:06:53,891 - INFO - ==================================================
+2025-03-15 22:06:53,892 - INFO - Alanya Hamdullah Emin Paşa Üniversitesi üniversitesi işleniyor...
+2025-03-15 22:06:53,893 - INFO - ==================================================
+2025-03-15 22:06:56,458 - INFO - patching driver executable /home/serdar/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-03-15 22:07:01,401 - ERROR - HATA: Alanya Hamdullah Emin Paşa Üniversitesi işlenirken bir hata oluştu: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-15 22:07:01,402 - INFO - Alanya Hamdullah Emin Paşa Üniversitesi başarısız üniversiteler listesine eklendi.
+2025-03-15 22:07:01,403 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78b606ec1a50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ca24ab99787623b5f029b50db3ee5024/window
+2025-03-15 22:07:01,405 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78b606ec1b10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ca24ab99787623b5f029b50db3ee5024/window
+2025-03-15 22:07:01,408 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78b606ec1cf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ca24ab99787623b5f029b50db3ee5024/window
